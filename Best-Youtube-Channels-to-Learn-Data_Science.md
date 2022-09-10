@@ -1,3 +1,17 @@
+# Best YouTube Channels to Learn Data Science
+The way we are learning new technologies has hugely changed in the last 5 years. Many educators, researchers, voices for quality education for all have come to create their educational videos and share those with community members, peers, and learners from industries. Many subjects and topics like Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning have gained has huge popularity in the market because they have brought disruption in the existing businesses and knowledge is openly available in the market. If you have time and money, then it makes sense to join some full-time or part-time course from some good university and learn these subjects systematically in depth and detail. But, if time or/and money is the issue, and you know what you want to learn, then there are many YouTube channels. From there you can learn everything you need to become a good ML Engineer, Data Scientist, Data Engineer, DL Engineer, NLP Engineer, etc.
+
+During my Masters in Data Science and post that, I have benefited hugely from many such YouTube channels. I am compiling a list of approx 80 channels in the section below. I am sure this list will help many people to start and become experts in the fields of AI. From Statistics, Probability, Algebra, Calculus, Programming, Data Cleaning, Feature Engineering, Model Building to Deployment everything can be learned through these channels. This list is sorted in descending order of the number of videos available on these channels.
+
+If you find any new channel which is not listed below, then please let me know. I will update this list.
+
+Disclaimer: I am not associated with any of these channels. But based on my learning need, I have been using these channels and benefited hugely.
+
+
+
+![](https://dasarpai.com/wp-content/uploads/2021/04/ML-YouTubeChannels2.jpg)
+
+## Data Science/AI Channels
 
 |#|Title|Videos|Subscribers|Description|
 |---|---|---|---|---|
@@ -95,7 +109,7 @@
 
 
 
-<h2>Other Channels</h2>
+## Other Channels
 
 <p class="has-text-align-left"><strong>Other useful YouTube channels for WordPress Designer/Developer, Physics &amp; Science Lover, Engineering Passionate.</strong></p>
 
