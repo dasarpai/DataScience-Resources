@@ -1,0 +1,1350 @@
+## Data Science/AI Channels
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr>
+
+<td>#</td>
+
+<td>Title</td>
+
+<td>Videos</td>
+
+<td>Subscribers</td>
+
+<td>Description</td></tr><tr>
+
+<td>1</td>
+
+<td><a href="https://www.youtube.com/user/MIT" rel="nofollow noopener" target="_blank">MIT OpenCourseWare</a></td>
+
+<td>6,345</td>
+
+<td>2980.0K</td>
+
+<td>Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There&#8217;s videos, and a whole lot more! OCW is a free and open online publication of material from thousands of MIT courses, covering the entire MIT curriculum, ranging from the introductory to the most advanced graduate courses. At the OCW website, you&#8217;ll find that each course has a syllabus, instructional material like notes and reading lists, and learning activities like assignments and solutions. Some courses also have videos, online textbooks, or faculty insights on teaching. Knowledge is your reward. There&#8217;s no signup or enrollment, and no start/end dates. it&#8217;s self-paced learning at its best. Get the full picture at https://ocw.mit.edu. Accessibility: https://accessibility.mit.edu/</td></tr><tr>
+
+<td>2</td>
+
+<td><a href="https://www.youtube.com/user/edurekaIN" rel="nofollow noopener" target="_blank">edureka!</a></td>
+
+<td>4,116</td>
+
+<td>2530.0K</td>
+
+<td>Our research team curates content on trending topics in the areas of Big Data &amp; Hadoop, DevOps, Blockchain, Artificial Intelligence, Angular, Data Science, Apache Spark, Python, Selenium, Tableau, Android, PMP certification, AWS Architect, Digital Marketing and many more.</td></tr><tr>
+
+<td>3</td>
+
+<td><a href="https://www.youtube.com/user/TheOfficialACM" rel="nofollow noopener" target="_blank">Association for Computing Machinery (ACM)</a></td>
+
+<td>3,239</td>
+
+<td>27.1K</td>
+
+<td>ACM, the Association for Computing Machinery, is the world&#8217;s largest educational and scientific computing society with nearly 100,000 members, and unites computing professionals, educators, and researchers from industry, academia, and government. ACM is dedicated to advancing computing as a science and a profession. ACM inspires dialogue, shares resources and addresses the field&#8217;s challenges through its programs, publications, and policy initiatives. ACM strengthens the profession&#8217;s collective voice by promoting the highest standards, supporting members&#8217; professional development, and fostering policies and research that benefit society.</td></tr><tr>
+
+<td>4</td>
+
+<td><a href="https://www.youtube.com/channel/UCakdSIPsJqiOLqylgoYmwQg" rel="nofollow noopener" target="_blank">itversity</a></td>
+
+<td>3,002</td>
+
+<td>54.1K</td>
+
+<td>A free one stop shop to learn all tips and techniques about all technologies catering wide array of IT professionals or aspirants. At this time focused on Big Data eco system. It includes following: * Hadoop, * Hive, * Pig, * Sqoop, * Apach Spark, * PySpark, * Kafka, * HBase, * Cassandra, Mongo DB, ETL, Data Warehousing, Linux, Python Programming, Docker, GCP, Azure, Database Programming, Apache NiFi, Scala Programming, Apache AirFlow, Data pipeline, Oracle, MySQL, Aster, Greenplum, Teradata, Goldengate etc&#8230; Everything in the context of Big Data. #DataEngineering #BigData #CloudComputing #Cloud</td></tr><tr>
+
+<td>5</td>
+
+<td><a href="https://www.youtube.com/user/Simplilearn" rel="nofollow noopener" target="_blank">Simplilearn</a></td>
+
+<td>2,578</td>
+
+<td>967.0K</td>
+
+<td>Simplilearn is the world’s #1 online bootcamp focused on helping people acquire the skills they need to thrive in the digital economy. Our award-winning online bootcamps are designed and updated by 2000+ renowned industry and academic experts. Through individual courses, comprehensive certification programs, and partnerships with world-renowned universities, we provide millions of professionals and thousands of corporate training organizations with the work-ready skills they need to excel in their careers and businesses. Our practical and applied approach has resulted in 85 percent of learners getting promotions or new jobs on day one. With over 1,000 live classes each month, real-world projects, and more, professionals learn by doing at Simplilearn.</td></tr><tr>
+
+<td>6</td>
+
+<td><a href="https://www.youtube.com/user/mathtutordvd" rel="nofollow noopener" target="_blank">Math and Science</a></td>
+
+<td>2,351</td>
+
+<td>691.0K</td>
+
+<td>Quality Math And Science Videos that feature step-by-step example problems!</td></tr><tr>
+
+<td>7</td>
+
+<td><a href="https://www.youtube.com/channel/UCR6d0EiC3G4WA8-Rqji6a8g" rel="nofollow noopener" target="_blank">Coding Shiksha</a></td>
+
+<td>1,338</td>
+
+<td>14.5K</td>
+
+<td>This Channel contains Tutorials on Software Development and Web Development.Tutorials of Java,HTML, CSS,JAVASCRIPT,AJAX,PHP languages are there.</td></tr><tr>
+
+<td>8</td>
+
+<td><a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" rel="nofollow noopener" target="_blank">freeCodeCamp.org</a></td>
+
+<td>1,243</td>
+
+<td>3370.0K</td>
+
+<td>Learn to code for free.</td></tr><tr>
+
+<td>9</td>
+
+<td><a href="https://www.youtube.com/channel/UCObs0kLIrDjX2LLSybqNaEA" rel="nofollow noopener" target="_blank">GreatLearning</a></td>
+
+<td>1239</td>
+
+<td>357K</td>
+
+<td>Great Learning is Asia’s leading professional learning platform,&nbsp; offering top-ranked programs in AI, Data Science, Analytics, Cloud Computing, Full-stack Development, Cybersecurity, Digital Marketing, Digital Business, Design Thinking and more. Great Learning&#8217;s programs are developed in collaboration with the world&#8217;s foremost academic institutions like Stanford GSB, MIT, IITB, IITM, Great Lakes Inst of Management, and The University of Texas at Austin.</td></tr><tr>
+
+<td>10</td>
+
+<td><a href="https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww" rel="nofollow noopener" target="_blank">CodeWithHarry</a></td>
+
+<td>1,215</td>
+
+<td>1200.0K</td>
+
+<td>Code With Harry is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn. At Code With Harry, I provide a quick and to the point demo along with resources of anything and everything I teach. Source code and other resources are hosted on my website CodeWithHarry.com. I provide source code(if any) in the description of every video. Quality programming videos in Hindi 🙂</td></tr><tr>
+
+<td>11</td>
+
+<td><a href="https://www.youtube.com/user/sentdex" rel="nofollow noopener" target="_blank">sentdex</a></td>
+
+<td>1,212</td>
+
+<td>1020.0K</td>
+
+<td>Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development and more. I have ~1000 videos, all of which do not fit on the front page. Try searching on the channel page, or via https://pythonprogramming.net.</td></tr><tr>
+
+<td>12</td>
+
+<td><a href="https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A" rel="nofollow noopener" target="_blank">DataCamp</a></td>
+
+<td>1,200</td>
+
+<td>112.0K</td>
+
+<td>DataCamp helps companies answer their most challenging questions by making better use of data. Our learners acquire and maintain data fluency from world-class instructors via courses, practice modules, projects, and assessments. And they learn by doing—applying each lesson immediately, and responding to instant feedback. DataCamp enables managers to strategically embed data fluency across an entire organization, regardless of size or structure. We are constantly expanding our curriculum to keep up with the latest technology trends and to provide the best learning experience for all skill levels in Python, R, SQL, Excel, Tableau, Oracle, Power BI, data engineering, theory, and more. We’ve already educated more than 6 million people around the world—and we’re just getting started. Close the talent gap.</td></tr><tr>
+
+<td>13</td>
+
+<td><a href="https://www.youtube.com/channel/UCAlwrsgeJavG1vw9qSFOUmA" rel="nofollow noopener" target="_blank">Analytics India Magazine</a></td>
+
+<td>1,181</td>
+
+<td>35.1K</td>
+
+<td>Analytics India Magazine (AIM) is India’s leading online portal on Analytics and related fields. We aim for the promotion and discussion of ideas and thoughts on Business Analytics from India perspective. AIM was started in May 2012 by Bhasker Gupta. Today, AIM is driven by Bhasker’s vision to create a hub for thousands of analytics professionals across India. AIM is the pre-eminent source of news, information and analysis for the Indian analytics ecosystem, covering news, thought articles, research works and case studies. The website was established with the aim to evangelize analytics in India through healthy discussion and idea dissemination on next gen analytics within India.</td></tr><tr>
+
+<td>14</td>
+
+<td><a href="https://www.youtube.com/user/professorleonard57" rel="nofollow noopener" target="_blank">Professor Leonard</a></td>
+
+<td>1,175</td>
+
+<td>516.0K</td>
+
+<td>This Channel is dedicated to quality mathematics education. It is absolutely FREE so Enjoy! Videos are organized in playlists and are course specific.</td></tr><tr>
+
+<td>15</td>
+
+<td><a href="https://www.youtube.com/user/shiffman" rel="nofollow noopener" target="_blank">The Coding Train</a></td>
+
+<td>1,098</td>
+
+<td>1250.0K</td>
+
+<td>All aboard! The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to algorithmic art, machine learning, simulation, generative poetry, and more.</td></tr><tr>
+
+<td>16</td>
+
+<td><a href="https://www.youtube.com/user/EnthoughtMedia" rel="nofollow noopener" target="_blank">Enthought</a></td>
+
+<td>1,064</td>
+
+<td>53.6K</td>
+
+<td>For more than 15 years, Enthought has built AI solutions with science and engineering at the core. We accelerate digital transformation by enabling companies and their people to leverage the benefits of Artificial Intelligence and Machine Learning. From strategy to implementation to training, our science-first approach means we understand your unique market value at the deepest level. Our unique blend of scientists and developers deliver solutions to unite your teams and their data. *Unleash Business-Specific AI We identify and implement vertically-integrated applications to accelerate business. We can extract business value from your data no matter the state or location &#8211; Big Data to Data Silos, no problem. *Solve Hard Scientific Problems We map the human genome. We find and extract oil. Together we develop and deploy a transparent solution with an accessible Python interface for continuous optimization and discoveries. *Transform People to Command AI Go Faster.</td></tr><tr>
+
+<td>17</td>
+
+<td><a href="https://www.youtube.com/user/krishnaik06" rel="nofollow noopener" target="_blank">Krish Naik</a></td>
+
+<td>947</td>
+
+<td>342.0K</td>
+
+<td>I work as a Lead Data Scientist, pioneering in machine learning, deep learning, and computer vision,an educator, and a mentor, with over 8 years&#8217; experience in the industry. This is my YouTube channel where I explain various topics on machine learning, deep learning, and AI with many real-world problem scenarios. I have delivered over 30 tech talks on data science, machine learning, and AI at various meet-ups, technical institutions, and community-arranged forums. My main aim is to make everyone familiar of ML and AI.Please subscribe and support the channel. As i love new technology, all these videos are free and I promise to make more interesting content as we go ahead.</td></tr><tr>
+
+<td>18</td>
+
+<td><a href="https://www.youtube.com/user/TechGuyWeb" rel="nofollow noopener" target="_blank">Traversy Media</a></td>
+
+<td>871</td>
+
+<td>1470.0K</td>
+
+<td>Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more</td></tr><tr>
+
+<td>19</td>
+
+<td><a href="https://www.youtube.com/user/Computerphile" rel="nofollow noopener" target="_blank">Computerphile</a></td>
+
+<td>686</td>
+
+<td>1880.0K</td>
+
+<td>Videos all about computers and computer stuff. Sister channel of Numberphile.</td></tr><tr>
+
+<td>20</td>
+
+<td><a href="https://www.youtube.com/channel/UCk5tiFqPvdjsl7yT4mmokmg" rel="nofollow noopener" target="_blank">Data Science Tutorial</a></td>
+
+<td>668</td>
+
+<td>27.8K</td>
+
+<td>In this channel, my objective is to go through R for its programming and statistical analysis technique. R is a preferred programming language for statistician and researcher because of its easy to follow programming syntax and depth of the analysis packages available.</td></tr><tr>
+
+<td>21</td>
+
+<td><a href="https://www.youtube.com/user/numberphile" rel="nofollow noopener" target="_blank">Numberphile</a></td>
+
+<td>601</td>
+
+<td>3670.0K</td>
+
+<td>Videos about numbers &#8211; it&#8217;s that simple. Videos by Brady Haran</td></tr><tr>
+
+<td>22</td>
+
+<td><a href="https://www.youtube.com/user/MITNewsOffice" rel="nofollow noopener" target="_blank">Massachusetts Institute of Technology (MIT)</a></td>
+
+<td>584</td>
+
+<td>699.0K</td>
+
+<td>Videos from the Massachusetts Institute of Technology. The mission of MIT is to advance knowledge and educate students in science, technology, and other areas of scholarship that will best serve the nation and the world. The Institute is committed to generating, disseminating, and preserving knowledge, and to working with others to bring this knowledge to bear on the world&#8217;s great challenges. MIT is dedicated to providing its students with an education that combines rigorous academic study and the excitement of discovery with the support and intellectual stimulation of a diverse campus community. We seek to develop in each member of the MIT community the ability and passion to work wisely, creatively, and effectively for the betterment of humankind.</td></tr><tr>
+
+<td>23</td>
+
+<td><a href="https://www.youtube.com/user/keeroyz" rel="nofollow noopener" target="_blank">Two Minute Papers</a></td>
+
+<td>572</td>
+
+<td>930.0K</td>
+
+<td>What a time to be alive!</td></tr><tr>
+
+<td>24</td>
+
+<td><a href="https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg" rel="nofollow noopener" target="_blank">Tech with Tim</a></td>
+
+<td>564</td>
+
+<td>611.0K</td>
+
+<td>Learn programming, software engineering, machine learning and everything tech from this channel. With a special emphasis on python and javascript my channel aims to give you free resources so that you can learn to code and dive into the software engineering and programming industry. My goal is to provide the highest quality programming and tech videos on the internet!&nbsp;</td></tr><tr>
+
+<td>25</td>
+
+<td><a href="https://www.youtube.com/user/lexfridman" rel="nofollow noopener" target="_blank">Lex Fridman</a></td>
+
+<td>544</td>
+
+<td>1020.0K</td>
+
+<td>Lex Fridman Podcast and other videos.</td></tr><tr>
+
+<td>26</td>
+
+<td><a href="https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A" rel="nofollow noopener" target="_blank">Dr. Trefor Bazett</a></td>
+
+<td>472</td>
+
+<td>97.8K</td>
+
+<td>This channel is about helping you learn math. I&#8217;ve got full playlists for Discrete Math, Linear Algebra, and Calculus I, II, III. It also includes series on &#8220;cool math&#8221; and on learning strategies for mathematics. I am an Assistant Teaching Professor teaching mathematics at the University of Victoria, in Canada. I completed my PhD in a fun branch of math called Algebraic Topology at the University of Toronto. Many of the videos on this channel were filmed during my time as an Assistant Professor, Educator at the University of Cincinnati. Mathematics is a journey we can all participate in. My videos can help support you, give you tools, and show you some of beauty and power of mathematics. But ultimately it is a journey we must travel together, so make sure you don&#8217;t JUST watch my videos. Ask questions, try problems, and do as much math as you can on your own too!</td></tr><tr>
+
+<td>27</td>
+
+<td><a href="https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ" rel="nofollow noopener" target="_blank">Pretty Printed</a></td>
+
+<td>427</td>
+
+<td>69.1K</td>
+
+<td>I&#8217;m Anthony. I make programming videos. Feel free to send any requests for videos.</td></tr><tr>
+
+<td>28</td>
+
+<td><a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A" rel="nofollow noopener" target="_blank">Siraj Raval</a></td>
+
+<td>426</td>
+
+<td>712.0K</td>
+
+<td>Hello World, it&#8217;s Siraj! I&#8217;m a technologist on a mission to spread data literacy. Artificial Intelligence, Mathematics, Science, Technology, I simplify these topics to help you understand how they work. Using this knowledge you can build wealth and live a happier, more meaningful life. I live to serve this community. We are the fastest growing AI community in the world! Some Research &#8211; https://drive.google.com/file/d/0BwUv84lNDk72Q1gzaXgwR2U3U2NWVlZSOFk4amZIRmV1QXI0/view</td></tr><tr>
+
+<td>29</td>
+
+<td><a href="https://www.youtube.com/user/how2stats" rel="nofollow noopener" target="_blank">how2stats</a></td>
+
+<td>378</td>
+
+<td>69.1K</td>
+
+<td>I have a *free* textbook called How2statsbook: www.how2statsbook.com. You can download the chapters (1 to 16) as PDF files. The textbook has approximately 400 YouTube videos that are hosted on my other YouTube channel: How2statsbook: https://www.youtube.com/channel/UClow2dWW7y1uO4kK4SxwsjA More chapters to come. How2stats is dedicated to helping people learn about statistics. Some of the videos are more lecture based, while others are relevant to using software for the purposes of conducting statistical analyses. I try to cover topics in a non-mathematical way, so that nearly anyone can understand. I usually try to go the extra mile, so that people can truly understand what the statistical analysis is doing and how it compares to alternative statistical procedures. Finally, I also point out some statistical mistakes that people often make, as well as some tips and tricks to help people get the best results.</td></tr><tr>
+
+<td>30</td>
+
+<td><a href="https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ" rel="nofollow noopener" target="_blank">TensorFlow</a></td>
+
+<td>378</td>
+
+<td>327.0K</td>
+
+<td>Welcome to the official TensorFlow YouTube channel. Stay up to date with the latest TensorFlow news, tutorials, best practices, and more! TensorFlow is an open-source machine learning framework for everyone.</td></tr><tr>
+
+<td>31</td>
+
+<td><a href="https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ" rel="nofollow noopener" target="_blank">codebasics</a></td>
+
+<td>372</td>
+
+<td>280.0K</td>
+
+<td>Friends, My name is Dhaval Patel and I have more than 15 years of experience working as a software engineer. I&#8217;ve worked with some big companies such as Nvidia Graphics as a software engineer and architect. Teaching has been my passion and I strongly believe &#8220;Anyone Can Code&#8221; ! No matter what your background and past skill set is, you can learn programming if it is taught in a simplistic and intuitive way. The goal of this channel is to fulfill this vision by teaching the programming in most simplest and intuitive manner. I teach simple programming, data science, data analytics, artificial intelligence, machine learning, data structures, software architecture etc on my channel.</td></tr><tr>
+
+<td>32</td>
+
+<td><a href="https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ" rel="nofollow noopener" target="_blank">Applied AI Course</a></td>
+
+<td>349</td>
+
+<td>60.7K</td>
+
+<td>The AppliedAICourse attempts to teach students/course-participants some of the core ideas in machine learning, data-science and AI that would help the participants go from a real world business problem to a first cut, working and deployable AI solution to the problem. Our primary focus is to help participants build real world AI solutions using the skills they learn in this course. This course will focus on practical knowledge more than mathematical or theoretical rigor. That doesn&#8217;t mean that we would water down the content. We will try and balance the theory and practice while giving more preference to the practical and applied aspects of AI as the course name suggests. Through the course, we will work on 20+ case studies of real world AI problems and datasets to help students grasp the practical details of building AI solutions. For each idea/algorithm in AI, we would provide examples to provide the intuition and show how the idea to used in the real world.</td></tr><tr>
+
+<td>33</td>
+
+<td><a href="https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA" rel="nofollow noopener" target="_blank">Andreas Kretz</a></td>
+
+<td>323</td>
+
+<td>21.4K</td>
+
+<td>I help you get into data engineering, the plumbing of data science. Building up big data platforms. Home of the Plumbers of Data Science Podcast Figuring out how to ingest, process and store data to enable the Data Scientist to do awesome stuff for customers. Using tools like Hadoop, Spark and Kafka. That&#8217;s what data engineering, the plumbing of data science is all about. An awesome job I am doing for almost eight years now 🙂 Hello my name is Andreas Kretz. I do these types of videos: &#8211; Data Science Hangout live streams &#8211; Tutorials and Strategy videos that help you get hands on experience in data engineering &#8211; Q&amp;A Videos about data engineering with Hadoop, Kafka, Spark and many more topics If you like my blog, don&#8217;t worry, I&#8217;ll keep writing in depth articles there.</td></tr><tr>
+
+<td>34</td>
+
+<td><a href="https://www.youtube.com/user/Cercopithecan" rel="nofollow noopener" target="_blank">Sebastian Lague</a></td>
+
+<td>251</td>
+
+<td>566.0K</td>
+
+<td>Hello, on this channel I explore how to create stuff out of code. Hope you find something interesting! Note to asset creators: please be aware that there&#8217;s a scam going around where someone claiming to be me is offering review videos in exchange for keys.</td></tr><tr>
+
+<td>35</td>
+
+<td><a href="https://www.youtube.com/user/DataScienceDojo" rel="nofollow noopener" target="_blank">Data Science Dojo</a></td>
+
+<td>250</td>
+
+<td>69.9K</td>
+
+<td>At Data Science Dojo, we believe data science is for everyone. Our in-person data science bootcamp has been attended by more than 4,000+ professionals from over 1,500+ companies globally. Our channel is the perfect showcase of our commitment to teaching data science for all skill levels! You will find tutorials, community talks, and courses on data science and data engineering.&nbsp;</td></tr><tr>
+
+<td>36</td>
+
+<td><a href="https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA" rel="nofollow noopener" target="_blank">Florin Pop</a></td>
+
+<td>247</td>
+
+<td>96.4K</td>
+
+<td>I love to create Coding Tutorials and to Code Live, so you&#8217;ll see a lot of those on this channel! Together we&#8217;re going to learn a lot about web development (HTML, CSS, JavaScript, ReactJS, NodeJS, Animations, Components, APIs and all the cool stuff 😎). I also love challenges. Here are a few that I completed so far: &#8211; 100 Projects in 100 Days &#8211; 31 Videos in 31 Days &#8211; Conquered the Entire freeCodeCamp Curriculum in a Month (while recording everything)</td></tr><tr>
+
+<td>37</td>
+
+<td><a href="https://www.youtube.com/user/WhatsACreel" rel="nofollow noopener" target="_blank">Creel</a></td>
+
+<td>233</td>
+
+<td>55.9K</td>
+
+<td>This channel is all about computer programming topics.</td></tr><tr>
+
+<td>38</td>
+
+<td><a href="https://www.youtube.com/user/consumerchampion" rel="nofollow noopener" target="_blank">Python Programmer</a></td>
+
+<td>231</td>
+
+<td>253.0K</td>
+
+<td>Hi, I&#8217;m Giles McMullen-Klein. My degree was in physics. I&#8217;ve been using python as a scientist for years. I learnt to code whilst studying physics and now I spend most of my time using python to analyse data. Python is an excellent language for data science and on this channel I teach the basics of python and how to use it to work with data. On this channel I post python tutorials and explain concepts about working with data.</td></tr><tr>
+
+<td>39</td>
+
+<td><a href="https://www.youtube.com/user/schafer5" rel="nofollow noopener" target="_blank">Corey Schafer</a></td>
+
+<td>230</td>
+
+<td>747.0K</td>
+
+<td>Welcome to my Channel. This channel is focused on creating tutorials and walkthroughs for software developers, programmers, and engineers. We cover topics for all different skill levels, so whether you are a beginner or have many years of experience, this channel will have something for you. We&#8217;ve already released a wide variety of videos on topics that include: Python, Git, Development Environments, Terminal Commands, SQL, Programming Terms, JavaScript, Computer Science Fundamentals, and plenty of other tips and tricks which will help you in your career.&nbsp;</td></tr><tr>
+
+<td>40</td>
+
+<td><a href="https://www.youtube.com/user/ibmbigdata" rel="nofollow noopener" target="_blank">IBM Data and AI</a></td>
+
+<td>229</td>
+
+<td>44.3K</td>
+
+<td>As part of a Cognitive strategy, organizations can transform their industry and professions with data. IBM Analytics enables anyone to engage with data to answer the toughest business questions, uncover patterns and pursue breakthrough ideas. At IBM, we offer a holistic approach to data analytics, including the expertise to deliver immediate business value at the point of impact. Here you can find presentations, demos, interviews, technical tutorials and more. For more information about how IBM Analytics helps to transform industries and professions with data, visit http://ibm.co/industrylaunch.</td></tr><tr>
+
+<td>41</td>
+
+<td><a href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA" rel="nofollow noopener" target="_blank">Computer Science</a></td>
+
+<td>228</td>
+
+<td>77.2K</td>
+
+<td>Join me on this incredible journey to learn many different programming languages like Python &amp; C, machine learning, artificial intelligence (AI), and computer science topics ! I will be creating content on all of the topics mentioned above and presenting them in a fun and interesting way by applying these concepts to real world applications. If you like the content on this channel, then please consider becoming a supporter on Patreon: https://www.patreon.com/computerscience</td></tr><tr>
+
+<td>42</td>
+
+<td><a href="https://www.youtube.com/channel/UCh8IuVJvRdporrHi-I9H7Vw" rel="nofollow noopener" target="_blank">Unfold Data Science</a></td>
+
+<td>226</td>
+
+<td>11.1K</td>
+
+<td>This channel is to help people understand basics of data science through simple examples in easy way. Anybody without having prior knowledge of computer programming or statistics or machine learning and artificial intelligence can get an understanding of data science at high level through this channel. The videos uploaded will not be very technical in nature and hence it can be easily grasped by viewers from different background as well. My Music source : https://www.bensound.com/royalty-free-music</td></tr><tr>
+
+<td>43</td>
+
+<td><a href="https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w" rel="nofollow noopener" target="_blank">Zach Star</a></td>
+
+<td>225</td>
+
+<td>784.0K</td>
+
+<td>(This channel used to be called MajorPrep, changed as of January 8th, 2020). I make nerdy and occasionally funny videos.</td></tr><tr>
+
+<td>44</td>
+
+<td><a href="https://www.youtube.com/user/BCFoltz" rel="nofollow noopener" target="_blank">Brandon Foltz</a></td>
+
+<td>219</td>
+
+<td>236.0K</td>
+
+<td>Hello I am Brandon Foltz and welcome to my channel! My tutorials focus on Introductory Statistics, Finite Mathematics, Management Science, Operations Management and Basic Accounting. My videos are full-length lessons&#8230;so grab a drink and stick around! 🙂 If you are on here trying to learn; you are my inspiration. I simply love to learn and I have an insatiable curiosity about the world. Education and sharing knowledge is my passion. While I need to support the channel financially, I am not trying to sell or promote anything but learning. If you subscribe and click the bell icon, you will only get new video notifications. Some of the problems I work come from textbooks I really like and I highly recommend taking a look at them. Keep working hard, never stop learning, and thanks for watching! &#8220;You must give some time to your fellow men. Even if it&#8217;s a little thing, do something for others &#8211; something for which you get no pay but the privilege of doing it.&#8221; &#8211; Albert Schweitzer</td></tr><tr>
+
+<td>45</td>
+
+<td><a href="https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw" rel="nofollow noopener" target="_blank">Henry AI Labs</a></td>
+
+<td>217</td>
+
+<td>28.7K</td>
+
+<td>Welcome to Henry AI Labs! I am very excited about Deep Learning and AI powered technology! I try to post Weekly Updates on Mondays about new papers that research labs from companies such as Google and Facebook are publishing, as well as miscellaneous interesting news from the AI community. Additionally, I am making paper summaries that I hope you will find useful for staying up to date with new papers, at least to give an overview if you don&#8217;t have time to digest the full paper. This channel includes topics such as Computer Vision, Natural Language Processing, Graph Embeddings, Generative Adversarial Networks, Reinforcement Learning, and more. I also try to post coding videos occasionally and am working on developing a podcast! You may be interested in this Github Repository that organizes the videos a bit better than going through the YouTube channel: https://github.com/CShorten/HenryAILabs-VideoList Thanks for checking it out.</td></tr><tr>
+
+<td>46</td>
+
+<td><a href="https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew" rel="nofollow noopener" target="_blank">Yannic Kilcher</a></td>
+
+<td>217</td>
+
+<td>80.5K</td>
+
+<td>I make videos about machine learning research papers, programming, and issues of the AI community, and the broader impact of AI in society.</td></tr><tr>
+
+<td>47</td>
+
+<td><a href="https://www.youtube.com/user/standupmaths" rel="nofollow noopener" target="_blank">Stand-up Maths</a></td>
+
+<td>205</td>
+
+<td>823.0K</td>
+
+<td>I do mathematics and stand-up. Sometimes simultaneously. Occasionally while being filmed.</td></tr><tr>
+
+<td>48</td>
+
+<td><a href="https://www.youtube.com/user/joshstarmer" rel="nofollow noopener" target="_blank">StatQuest with Josh Starmer</a></td>
+
+<td>197</td>
+
+<td>462.0K</td>
+
+<td>Statistics, Machine Learning and Data Science can sometimes seem like very scary topics, but since each technique is really just a combination of small and simple steps, they are actually quite simple. My goal with StatQuest is to break down the major methodologies into easy to understand pieces. That said, I don&#8217;t dumb down the material. Instead, I build up your understanding so that you are smarter.</td></tr><tr>
+
+<td>49</td>
+
+<td><a href="https://www.youtube.com/channel/UCEBpSZhI1X8WaP-kY_2LLcg" rel="nofollow noopener" target="_blank">365 Data Science</a></td>
+
+<td>189</td>
+
+<td>170.0K</td>
+
+<td>At 365 Data Science, we all come to work every day because we want to solve the biggest problem in data science. Education. People who want to enter the field do not know where to start. They wonder whether they need a PhD, or perhaps a few years in a remotely related job. Universities have been slow at adapting their educational offering. In fact, a specialized data science training program is not even offered on most campuses, and when it is, the prerequisites of statistical and mathematical knowledge can be intimidating. All this results in an environment where companies struggle to find well-prepared candidates who have acquired the necessary expertise and are ready to start their data science career. This is how 365 Data Science started. We are a group of friends turned start-up enthusiasts. Our journey began in 2016 with the mission to create the world’s most accessible and intuitive data science training materials.</td></tr><tr>
+
+<td>50</td>
+
+<td><a href="https://www.youtube.com/user/gramener" rel="nofollow noopener" target="_blank">Gramener</a></td>
+
+<td>185</td>
+
+<td>0.8K</td>
+
+<td>Gramener is a design-led data science and storytelling company that solves complex business problems with compelling data stories using insights and a low-code analytics platform, Gramex. We build data apps rapidly with Gramex, our low code analytics platform, and reduce the go-to-market time of data science solutions by 50%. We work with clients from Pharma, Media, Technology, Banking and Finance, and Government and PSU sectors, including some of the Fortune 500 Companies. We utilize the power of Artificial Intelligence (AI) and Machine Learning (ML) to create solutions that tackle complex business problems and environmental and social issues. We are the official Gold Partner of Microsoft and collaborate with Microsoft&#8217;s AI for Earth team to build AI solutions to save biodiversity.</td></tr><tr>
+
+<td>51</td>
+
+<td><a href="https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg" rel="nofollow noopener" target="_blank">Ken Jee</a></td>
+
+<td>184</td>
+
+<td>131.0K</td>
+
+<td>Data Science and Sports Analytics are my passions. My name is Ken Jee and I have been working in the data science field doing sports analytics for the last 5 years. I have held data science positions in companies ranging from startups to fortune 100 organizations. I transitioned into data science from a business and consulting background. When I was first starting out on my data science journey I was extremely lost; there were very few resources for me to learn about this field from. I decided to start making YouTube videos to share my experiences and to hopefully help others get break into the data science and sports analytics fields. On this channel I produce fun and informative Data Science and Sports Analytics Content. My goal is to provide insight into the data science community, career advice, and sports related analysis.</td></tr><tr>
+
+<td>52</td>
+
+<td><a href="https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q" rel="nofollow noopener" target="_blank">Data Professor</a></td>
+
+<td>182</td>
+
+<td>60.7K</td>
+
+<td>Data Science, Machine Learning, Bioinformatics, Research and Teaching are my passion. The Data Professor YouTube channel is an extension of my passion in helping students and data enthusiast learn about Data Science and how it can be used to make sense of data. This channel provides Data Science contents consisting of explainer videos and practical tutorials. Chanin Nantasenamat, Ph.D. is an Associate Professor of Bioinformatics at a Research University where he leads a research laboratory that harnesses data science for unraveling the hidden knowledge of big data in medicine. Chanin has more than 15 years of experience in data science (as applied to bioinformatics) and has published more than 100 research articles, review articles and book chapters.</td></tr><tr>
+
+<td>53</td>
+
+<td><a href="https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw" rel="nofollow noopener" target="_blank">Gaurav Sen</a></td>
+
+<td>178</td>
+
+<td>331.0K</td>
+
+<td>Algorithms and System Design is a powerful combination! Here are some things I talk about: 1) Competitive programming 2) System design 3) Artificial intelligence Subscribe for the latest updates!</td></tr><tr>
+
+<td>54</td>
+
+<td><a href="https://www.youtube.com/channel/UCpbMQO3wyA-vfYiCiIGB8Iw" rel="nofollow noopener" target="_blank">DataMites</a></td>
+
+<td>167</td>
+
+<td>10.7K</td>
+
+<td>DataMites will upload videos related to data science, machine learning, artificial intelligence, IoT, Deep learning, Python, Tableau. These videos are helpful to beginners in the data science and machine learning field and the people who have asiprantion to become data scientists or machine learning experts. Datamites provides certified data scientist course along with global certification. You can learn data science with machine learning, python, artificial intelligence, statistics, deep learning, etc,.. The courses will be conducted in 3 phases. Phase 1: Elearning Videos (10 hours) Phase 2: 8 Days Classroom Training / 2 months ONLINE Phase 3: 3 Months Live Project Work Course Covers: Machine Learning, Deep Learning (AI), Datamining, Business Statistics, Tableau, R programming, Python etc.</td></tr><tr>
+
+<td>55</td>
+
+<td><a href="https://www.youtube.com/user/programmingwithmosh" rel="nofollow noopener" target="_blank">Programming with Mosh</a></td>
+
+<td>160</td>
+
+<td>1650.0K</td>
+
+<td>I train professional software engineers that companies love to hire.&nbsp; #python #javascript #chsarp</td></tr><tr>
+
+<td>56</td>
+
+<td><a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" rel="nofollow noopener" target="_blank">3Blue1Brown</a></td>
+
+<td>113</td>
+
+<td>3590.0K</td>
+
+<td>3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.&nbsp;</td></tr><tr>
+
+<td>57</td>
+
+<td><a href="https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A" rel="nofollow noopener" target="_blank">CS Dojo</a></td>
+
+<td>95</td>
+
+<td>1640.0K</td>
+
+<td>Hello! My name is YK, and I usually make videos about programming and computer science.</td></tr><tr>
+
+<td>58</td>
+
+<td><a href="https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg" rel="nofollow noopener" target="_blank">Alex The Analyst</a></td>
+
+<td>91</td>
+
+<td>45.2K</td>
+
+<td>My name is Alex Freberg and on this channel I will going over everything you need to know to become a Data Analyst. If you are wanting to make a career change or learn the skills needed to become a Data Analyst, be sure to subscribe to stay up to date on all my latest content.</td></tr><tr>
+
+<td>59</td>
+
+<td><a href="https://www.youtube.com/channel/UC5_6ZD6s8klmMu9TXEB_1IA" rel="nofollow noopener" target="_blank">CodeEmporium</a></td>
+
+<td>91</td>
+
+<td>44.5K</td>
+
+<td>Everything new and interesting in Machine Learning, Deep Learning, Data Science, &amp; Artificial Intelligence. Hoping to build a community of data science geeks and talk about future tech! Projects demos and more! Subscribe for awesome videos 🙂</td></tr><tr>
+
+<td>60</td>
+
+<td><a href="https://www.youtube.com/channel/UC7Fs-Fdpe0I8GYg3lboEuXw" rel="nofollow noopener" target="_blank">Normalized Nerd</a></td>
+
+<td>82</td>
+
+<td>10.9K</td>
+
+<td>Hello, people from the future! Welcome to Normalized Nerd! I love to create educational videos on Machine Learning and Creative Coding. Machine learning and Data Science have changed our world dramatically and will continue to do so. But how do they work? What really happens behind the curtains?</td></tr><tr>
+
+<td>61</td>
+
+<td><a href="https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg" rel="nofollow noopener" target="_blank">Mathologer</a></td>
+
+<td>78</td>
+
+<td>689.0K</td>
+
+<td>Enter the world of the Mathologer for really accessible explanations of hard and beautiful math(s). In real life the Mathologer is a math(s) professor at Monash University in Melbourne, Australia and goes by the name of Burkard Polster. These days Marty Ross another math(s) professor, great friend and collaborator for over 20 years also plays a huge role behind the scenes, honing the math(s) and the video scripts with Burkard. If you like Mathologer, also check out years worth of free original maths resources on Burkard and Marty&#8217;s site http://www.qedcat.com.</td></tr><tr>
+
+<td>62</td>
+
+<td><a href="https://www.youtube.com/channel/UCs4aHmggTfFrpkPcWSaBN9g" rel="nofollow noopener" target="_blank">PBS Infinite Series</a></td>
+
+<td>65</td>
+
+<td>281.0K</td>
+
+<td>Mathematician Tai-Danae Bradley and physicist Gabe Perez-Giz offer ambitious content for viewers that are eager to attain a greater understanding of the world around them. Math is pervasive &#8211; a robust yet precise language &#8211; and with each episode you’ll begin to see the math that underpins everything in this puzzling, yet fascinating, universe. Previous host Kelsey Houston-Edwards is currently working on her Ph.D. in mathematics at Cornell University.</td></tr><tr>
+
+<td>63</td>
+
+<td><a href="https://www.youtube.com/channel/UCKXx22vOENUyHrVAADq7Z_g" rel="nofollow noopener" target="_blank">Geek&#8217;s Lesson</a></td>
+
+<td>60</td>
+
+<td>382.0K</td>
+
+<td>This channel is about the art of computer science, consisting of educational contents from experts all around the world. We provide contents related to computer science domain such as Mathematics, Machine Learning, IT security, System Administration, Deep learning, Data Science, Natural language processing and Statistics. All contents of this channel solely dedicated for educational or research purpose in computer science.</td></tr><tr>
+
+<td>64</td>
+
+<td><a href="https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA" rel="nofollow noopener" target="_blank">Tech Dummies Narendra L</a></td>
+
+<td>60</td>
+
+<td>95.4K</td>
+
+<td>My name is Naren and I am here to help you to learn skills that you need for Software Engineering work and also to help you to polish your skills and get ready for the job, whether you are a fresh college graduate or a working professional.</td></tr><tr>
+
+<td>65</td>
+
+<td><a href="https://www.youtube.com/channel/UCOEX0WT2MJZX3ev954syP3A" rel="nofollow noopener" target="_blank">Analytics Mania &#8211; Google Tag Manager &amp; Analytics</a></td>
+
+<td>59</td>
+
+<td>10.7K</td>
+
+<td>Learn Google Tag Manager and Google Analytics faster with Analytics Mania. If you want to know how to track various website interactions with these two popular platforms, you&#8217;ve landed on the right Youtube channel. Combine this channel with the content on analyticsmania.com and you&#8217;ll get a knowledge bomb.</td></tr><tr>
+
+<td>66</td>
+
+<td><a href="https://www.youtube.com/channel/UCL78WE5txuSu94gY5qrvU8w" rel="nofollow noopener" target="_blank">The Research and Applied AI Summit &#8211; RAAIS</a></td>
+
+<td>59</td>
+
+<td>1.7K</td>
+
+<td>The Research and Applied Artificial Intelligence Summit (RAAIS) explores the frontiers of AI research and applications on the world&#8217;s most exciting problems. RAAIS is a community for entrepreneurs and researchers who accelerate the science and applications of AI technology. The event is organized annually by Nathan Benaich, General Partner of Air Street Capital and Managing Trustee of the RAAIS Foundation. Air Street Capital is a venture capital firm investing in AI-first technology and life science companies. Learn more at https://www.airstreet.com The RAAIS Foundation is a UK-registered charity with a mission to advance education and research in AI for the common good. Learn more at https://www.raais.org</td></tr><tr>
+
+<td>67</td>
+
+<td><a href="https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA" rel="nofollow noopener" target="_blank">Reinforcement Learning</a></td>
+
+<td>56</td>
+
+<td>2.6K</td>
+
+<td>&nbsp;</td></tr><tr>
+
+<td>68</td>
+
+<td><a href="https://www.youtube.com/user/Taylorns34" rel="nofollow noopener" target="_blank">Welch Labs</a></td>
+
+<td>50</td>
+
+<td>331.0K</td>
+
+<td>Math, Science, and Machine Learning resources.</td></tr><tr>
+
+<td>69</td>
+
+<td><a href="https://www.youtube.com/channel/UC_pSCYWbMn4JcsxbWOzkgEQ" rel="nofollow noopener" target="_blank">Rachel Thomas</a></td>
+
+<td>49</td>
+
+<td>15.7K</td>
+
+<td>Videos of talks by Rachel Thomas, founder of fast.ai</td></tr><tr>
+
+<td>70</td>
+
+<td><a href="https://www.youtube.com/user/VulkovVenelin" rel="nofollow noopener" target="_blank">Venelin Valkov</a></td>
+
+<td>45</td>
+
+<td>6.6K</td>
+
+<td>Misusings of AI, Stats &amp; Programming</td></tr><tr>
+
+<td>71</td>
+
+<td><a href="https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ" rel="nofollow noopener" target="_blank">Luis Serrano</a></td>
+
+<td>38</td>
+
+<td>79.4K</td>
+
+<td>My goal is to demystify complex topics, mainly in mathematics, machine learning, and artificial intelligence. I like to capture the essence of every concept, as this is the way I can understand them.</td></tr><tr>
+
+<td>72</td>
+
+<td><a href="https://www.youtube.com/channel/UCyTTRlOdjHg23q3l6_CD4gg" rel="nofollow noopener" target="_blank">Prof. Patrick Meyer</a></td>
+
+<td>34</td>
+
+<td>1.4K</td>
+
+<td>A channel dedicated to teaching statistics and psychometrics. Extended videos highlight important concepts in statistics and measurement. Shorter videos explain how conduct various computations.</td></tr><tr>
+
+<td>73</td>
+
+<td><a href="https://www.youtube.com/channel/UCStj-ORBZ7TGK1FwtGAUgbQ" rel="nofollow noopener" target="_blank">Programming Hero</a></td>
+
+<td>33</td>
+
+<td>174.0K</td>
+
+<td>Learning is boring? Not any more. Programming is frustrating? No longer. Go watch any of our videos and you&#8217;ll start having a romantic perspective on programming. &#8220;Coding Just Got Fun With Programming Hero!&#8221;</td></tr><tr>
+
+<td>74</td>
+
+<td><a href="https://www.youtube.com/user/quantconceptsedu" rel="nofollow noopener" target="_blank">Dave Your Tutor</a></td>
+
+<td>32</td>
+
+<td>9.9K</td>
+
+<td>Hi, I&#8217;m an academic at an Australian university. I enjoy teaching Statistics in my spare time (yes, I&#8217;m a nerd haha) and would like to help struggling students on Youtube.</td></tr><tr>
+
+<td>75</td>
+
+<td><a href="https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA" rel="nofollow noopener" target="_blank">AMATH 301</a></td>
+
+<td>30</td>
+
+<td>10.1K</td>
+
+<td>&nbsp;</td></tr><tr>
+
+<td>76</td>
+
+<td><a href="https://www.youtube.com/channel/UCyna_OxOWL7IEuOwb7WhmxQ" rel="nofollow noopener" target="_blank">Elvis Saravia</a></td>
+
+<td>23</td>
+
+<td>1.3K</td>
+
+<td>Democratizing Artificial Intelligence Research, Education, and Technologies</td></tr><tr>
+
+<td>77</td>
+
+<td><a href="https://www.youtube.com/user/frameofessence" rel="nofollow noopener" target="_blank">Frame of Essence</a></td>
+
+<td>22</td>
+
+<td>124.0K</td>
+
+<td>Embrace the complexity within Physics, Math, and Computers! &#8211; created by Philip O. Duncan</td></tr><tr>
+
+<td>78</td>
+
+<td><a href="https://www.youtube.com/channel/UC5c7r0SlnNmPfqxEyni71FA" rel="nofollow noopener" target="_blank">Data Science Office Hours</a></td>
+
+<td>17</td>
+
+<td>6.0K</td>
+
+<td>&nbsp;</td></tr><tr>
+
+<td>79</td>
+
+<td><a href="https://www.youtube.com/channel/UCxdCZGywhd2R5BiOP8vOgqg" rel="nofollow noopener" target="_blank">R Programming &#8211; DDS</a></td>
+
+<td>17</td>
+
+<td>3.0K</td>
+
+<td>Dynamic Data Script is all about making programming available to everybody. We believe that everyone has their own learning style and providing video tutorials is our way to make knowledge more accessible. We dedicate this channel to everything R Programming like data science, machine learning, bioinformatics, data representation, web applications, performance optimization and more! Beginner or expert, we love sharing and exchanging, so let us know what you would like to learn next! We&#8217;re here to teach you something new or tickle your curiosity! Cheers, Max &amp; Lilly</td></tr><tr>
+
+<td>80</td>
+
+<td><a href="https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg" rel="nofollow noopener" target="_blank">Arxiv Insights</a></td>
+
+<td>11</td>
+
+<td>66.9K</td>
+
+<td>My name is Xander Steenbrugge, and I read a ton of papers on Machine Learning and AI. But papers can be a bit dry &amp; take a while to read. And we are lazy right? In this channel I try to summarize my core take-aways from a technical point of view while making them accessible for a bigger audience. If you love technical breakdowns on ML &amp; AI but you are often lazy like me, then this channel is for you!</td></tr><tr>
+
+<td>81</td>
+
+<td><a href="https://www.youtube.com/channel/UCb-KS2wb_FhGXx-DELLQTTg" rel="nofollow noopener" target="_blank">Society of Data Scientists</a></td>
+
+<td>8</td>
+
+<td>0.0K</td>
+
+<td>You have questions, whether they be about launching a Data Science career or about refining what you know about Data Science &#8211; the Society of Data Scientists is designed to help you reach your Data Science goals. The Society provides in-depth practical examples to help you fill in the swiss cheese effect that so many Data Scientist experience. We attempt to close the gaps using open source tools and make the complex topics simple.</td></tr><tr>
+
+<td>82</td>
+
+<td><a href="https://www.youtube.com/channel/UCXweTmAk9K-Uo9R6SmfGtjg/videos" rel="nofollow noopener" target="_blank">Machine Learning at Berkeley</a></td>
+
+<td>&nbsp;</td>
+
+<td>4.63K</td>
+
+<td>Machine Learning at Berkeley empowers passionate students to solve real world data-driven problems through collaboration with companies and internal research. To find out more, check out our website http://ml.berkeley.edu where you can sign up for our newsletter and apply for our project teams.</td></tr><tr>
+
+<td>83</td>
+
+<td><a href="https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos" rel="nofollow noopener" target="_blank">Allen Institute for AI</a></td>
+
+<td>&nbsp;</td>
+
+<td>8.03K</td>
+
+<td>&nbsp;</td></tr><tr>
+
+<td>84</td>
+
+<td><a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos" rel="nofollow noopener" target="_blank">Understanding Machine Learning &#8211; Shai Ben-David</a></td>
+
+<td>&nbsp;</td>
+
+<td>4.6K</td>
+
+<td>Shai Ben-David is a prominent computer scientist and professor of computer science at University of Waterloo in Canada. His research interests are in CS theory and machine learning. This channel has been created by a group of students to collect his lectures and talks. Please click on the Playlists to see different topics and class lectures.</td></tr><tr>
+
+<td>85</td>
+
+<td><a href="https://www.youtube.com/c/MachineLearningTV/videos" rel="nofollow noopener" target="_blank">Machine Learning TV</a></td>
+
+<td>&nbsp;</td>
+
+<td>25.6</td>
+
+<td>This channel is all about machine learning (ML). It contains all the useful resources which help ML lovers and computer science students gain a better understanding of the concepts of this successful branch of Artificial Intelligence.</td></tr><tr>
+
+<td>86</td>
+
+<td><a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi" rel="nofollow noopener" target="_blank">Google I/O 2019 &#8211; All Sessions &#8211; YouTube</a></td>
+
+<td>182</td>
+
+<td>&nbsp;</td>
+
+<td>Google I/O 2019 &#8211; All Sessions &#8211; YouTube</td></tr><tr>
+
+<td>87</td>
+
+<td><a href="https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2_vtWvCpQWM9GJXNTa5rV" rel="nofollow noopener" target="_blank">TensorFlow at Google I/O 2019 &#8211; YouTube</a></td>
+
+<td>18</td>
+
+<td>&nbsp;</td>
+
+<td>TensorFlow at Google I/O 2019 &#8211; YouTube</td></tr><tr>
+
+<td>88</td>
+
+<td><a href="https://www.youtube.com/user/GoogleDevelopers" rel="nofollow noopener" target="_blank">Google Developers</a></td>
+
+<td>5,298</td>
+
+<td>2160.0K</td>
+
+<td>The Google Developers channel features talks from events, educational series, best practices, tips, and the latest updates across our products and platforms. Subscribe to Google Developers → https://goo.gle/developers</td></tr><tr>
+
+<td>89</td>
+
+<td><a href="https://www.youtube.com/user/AtGoogleTalks" rel="nofollow noopener" target="_blank">Talks at Google</a></td>
+
+<td>5,040</td>
+
+<td>1490.0K</td>
+
+<td>Talks at Google is a leader in the corporate interview series space, providing a platform for influential thinkers, creators, makers and doers to tell us about their work, their lives and what drives them to shape our world. We host talks virtually and physically across 30+ Google offices worldwide, and often record and release these talks publicly. Subscribe to our audio-only &#8220;Talks at Google&#8221; podcast everywhere podcasts are found via https://linktr.ee/talksatgoogle.</td></tr><tr>
+
+<td>90</td>
+
+<td><a href="https://www.youtube.com/user/googlecloudplatform" rel="nofollow noopener" target="_blank">Google Cloud Tech</a></td>
+
+<td>3,204</td>
+
+<td>694.0K</td>
+
+<td>Helping you build what&#8217;s next with secure infrastructure, developer tools, APIs, data analytics and machine learning.</td></tr><tr>
+
+<td>91</td>
+
+<td><a href="https://www.youtube.com/user/ChromeDevelopers" rel="nofollow noopener" target="_blank">Google Chrome Developers</a></td>
+
+<td>1,202</td>
+
+<td>567.0K</td>
+
+<td>Making the web more awesome.</td></tr></tbody></table></figure>
+
+
+
+<h2>Other Channels</h2>
+
+
+
+<p class="has-text-align-left"><strong>Other useful YouTube channels for WordPress Designer/Developer, Physics &amp; Science Lover, Engineering Passionate.</strong></p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr>
+
+<td>Category</td>
+
+<td>#</td>
+
+<td>Title</td>
+
+<td>Videos</td>
+
+<td>Subscribers</td>
+
+<td>Description</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>1</td>
+
+<td><a href="https://www.youtube.com/user/wpbeginner" rel="nofollow noopener" target="_blank">WPBeginner &#8211; WordPress Tutorials</a></td>
+
+<td>750</td>
+
+<td>236.0K</td>
+
+<td>WPBeginner is the largest free WordPress resource site for WordPress beginners. We offer easy-to-understand WordPress tutorials for mastering the basics and beyond. Learn how to do cool things in WordPress without hiring a developer (for Free). Why pay for membership sites, when we have the same great quality tutorials for free.</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>2</td>
+
+<td><a href="https://www.youtube.com/user/WPLearningLab" rel="nofollow noopener" target="_blank">WordPress Tutorials &#8211; WPLearningLab</a></td>
+
+<td>741</td>
+
+<td>118.0K</td>
+
+<td>I create WordPress tutorials and courses so that you can quickly learn the skills you need to create/run your business&#8217;s websites or get more clients. We focus on WordPress fundamentals and take you all the way through to advance skills.</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>3</td>
+
+<td><a href="https://www.youtube.com/channel/UCjDuxPEhNQ2qn_qAdjRG4YQ" rel="nofollow noopener" target="_blank">WPCrafter.com WordPress For Non-Techies</a></td>
+
+<td>565</td>
+
+<td>212.0K</td>
+
+<td>WPCrafter.com is dedicated to learning and leveraging WordPress. We offer simple to follow tutorial videos on WordPress that covers simple topics like installing WordPress and maintaining WordPress, and more advanced videos for WordPress developers.</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>4</td>
+
+<td><a href="https://www.youtube.com/channel/UCEzSSbs3Wfe5p4dBzzjrjvw" rel="nofollow noopener" target="_blank">Surfside PPC</a></td>
+
+<td>417</td>
+
+<td>133.0K</td>
+
+<td>Welcome to the Surfside PPC YouTube channel! You will find the best PPC Tutorials on our channel. We upload all of our PPC Advertising, Search Engine Optimization and Search Engine Marketing videos related to Google Ads, Bing Ads, Microsoft Advertising, Facebook Ads, Instagram Ads, Pinterest Ads, LinkedIn Ads, Increasing Website Traffic, Creating Websites, Social Media Advertising and more. We are focused on creating educational content about Digital Marketing, Online Marketing, SEO, and PPC so we can help you understand it. In addition, every one of our videos will include strategies and recommendations based on our expertise, which can save you money in the long-term. If you have an interest in Digital Marketing, you are sure to learn something!</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>5</td>
+
+<td><a href="https://www.youtube.com/channel/UCt9kG_EDX8zwGSC1-ycJJVA" rel="nofollow noopener" target="_blank">Elementor Website Builder for WordPress</a></td>
+
+<td>390</td>
+
+<td>232.0K</td>
+
+<td>Elementor is the leading website builder platform for web creators on WordPress. Elementor is an open source, GPLv3 licensed platform with 5M+ active installs and 4500+ 5 star reviews. https://elementor.com/</td></tr><tr>
+
+<td>WordPress</td>
+
+<td>6</td>
+
+<td><a href="https://www.youtube.com/channel/UCb6nGFXMRx22Ns2ft5qfMew" rel="nofollow noopener" target="_blank">Design School by Wpalgoridm</a></td>
+
+<td>263</td>
+
+<td>8.6K</td>
+
+<td>I am Karthik, a web developer and designer with extensive knowledge in HTML, CSS, JavaScript, Ajax, PHP, SQL, Java and more. On this channel I make the best possible WordPress &amp; Elementor tutorials for beginners coz I really can. You&#8217;ll also find WordPress tutorials, tips, tricks, guides, Elementor tutorials , even CSS, Javascript &amp; other code stuff just in case [easy peasy :)] you need them for your WordPress websites. Not to boast but some of the topics that I covered on this channel are dynamic content for Elementor, Unlimited elements, Custom css, Elementor pro, Crocoblock, Jet Engine, Advanced custom fields, CPT UI to name a few. We&#8217;re just getting started though.</td></tr><tr>
+
+<td>Video</td>
+
+<td>7</td>
+
+<td><a href="https://www.youtube.com/user/kevlers" rel="nofollow noopener" target="_blank">Kevin Stratvert</a></td>
+
+<td>407</td>
+
+<td>636.0K</td>
+
+<td>Learn how to do anything with high quality how to and review videos. I&#8217;m an ex-Microsoft Program Manager and now a full time YouTube Creator. I worked at Microsoft for 14 years and most recently led the Office.com and the Office app experiences.</td></tr><tr>
+
+<td>Training</td>
+
+<td>8</td>
+
+<td><a href="https://www.youtube.com/channel/UC76TbffoX3vr1XpnHacmGnQ" rel="nofollow noopener" target="_blank">Maths by Nidhi</a></td>
+
+<td>141</td>
+
+<td>8.8K</td>
+
+<td>Hi I&#8217;m Nidhi, I help teachers get over challenges of online teaching through tutorials and how to videos. Adapting to changing trends, learning new technology and skills is what you need to thrive in your profession as a teacher.</td></tr><tr>
+
+<td>SEO</td>
+
+<td>9</td>
+
+<td><a href="https://www.youtube.com/user/GoogleWebmasterHelp" rel="nofollow noopener" target="_blank">Google Search Central</a></td>
+
+<td>1,554</td>
+
+<td>424.0K</td>
+
+<td>Welcome to the official Google Search Central YouTube channel (formerly Google Webmasters) where you can find information and tools to help you understand and improve your site in Google Search. For support-related issues with your site in Google Search and Search Console, please visit our Search Central Community.</td></tr><tr>
+
+<td>Science</td>
+
+<td>10</td>
+
+<td><a href="https://www.youtube.com/user/NASAgovVideo" rel="nofollow noopener" target="_blank">NASA Video</a></td>
+
+<td>8,970</td>
+
+<td>724.0K</td>
+
+<td>NASA&#8217;s mission is to pioneer the future in space exploration, scientific discovery and aeronautics research. To do that, thousands of people have been working around the world and in space for more than 50 years, trying to answer some basic questions. What&#8217;s out there in space? How do we get there? What will we find? What can we learn there &#8212; or learn just by trying to get there &#8212; that will make life better here on Earth? NASA&#8217;s work is diverse: proving flight technologies; creating capabilities for sustainable human and robotic exploration; exploring Earth, the solar system and the universe beyond; developing critical enabling technologies such as the space shuttle; and conducting science in orbit aboard the International Space Station. With NASA you can explore the universe and discover Earth.</td></tr><tr>
+
+<td>Science</td>
+
+<td>11</td>
+
+<td><a href="https://www.youtube.com/user/Harvard" rel="nofollow noopener" target="_blank">Harvard University</a></td>
+
+<td>3,471</td>
+
+<td>1580.0K</td>
+
+<td>Harvard University&#8217;s YouTube channel shares video content about life and learning that takes place here on campus and around the world. Harvard is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally. The University has twelve degree-granting Schools in addition to the Radcliffe Institute for Advanced Study. Based in Cambridge and Boston, Massachusetts, Harvard has an enrollment of over 20,000 degree candidates, including undergraduate, graduate, and professional students. Harvard has more than 370,000 alumni around the world. All content copyrighted 2019 by the President and Fellows of Harvard College</td></tr><tr>
+
+<td>Science</td>
+
+<td>12</td>
+
+<td><a href="https://www.youtube.com/user/NASAexplorer" rel="nofollow noopener" target="_blank">NASA Goddard</a></td>
+
+<td>1,762</td>
+
+<td>810.0K</td>
+
+<td>Your friendly neighborhood space flight center. NASA&#8217;s Goddard Space Flight Center is home to the nation&#8217;s largest organization of combined scientists, engineers and technologists that build spacecraft, instruments and new technology to study Earth, the sun, our solar system and the universe. Named for American rocketry pioneer Dr. Robert H. Goddard, the center was established in 1959 as NASA&#8217;s first space flight complex. Goddard and its several facilities are critical in carrying out NASA&#8217;s missions of space exploration and scientific discovery. Watch for the latest in NASA&#8217;s research into planetary science, astrophysics, Earth observing, and solar science.</td></tr><tr>
+
+<td>Science</td>
+
+<td>13</td>
+
+<td><a href="https://www.youtube.com/user/caltech" rel="nofollow noopener" target="_blank">caltech</a></td>
+
+<td>1,325</td>
+
+<td>140.0K</td>
+
+<td>At Caltech, scholars expand human knowledge and benefit society through bold, collaborative explorations in science and engineering.</td></tr><tr>
+
+<td>Science</td>
+
+<td>14</td>
+
+<td><a href="https://www.youtube.com/user/TheRoyalInstitution" rel="nofollow noopener" target="_blank">The Royal Institution</a></td>
+
+<td>910</td>
+
+<td>997.0K</td>
+
+<td>Videos to make you think more deeply about science. Explosive short films, full length talks from the world’s leading scientists and writers, and videos to challenge the way you look at the world. The Royal Institution is a 200 year old independent charity based in London dedicated to connecting people with the world of science through events, education, and the CHRISTMAS LECTURES.</td></tr><tr>
+
+<td>Science</td>
+
+<td>15</td>
+
+<td><a href="https://www.youtube.com/user/Vsauce" rel="nofollow noopener" target="_blank">Vsauce</a></td>
+
+<td>373</td>
+
+<td>16700.0K</td>
+
+<td>Our World is Amazing. Questions? Ideas?</td></tr><tr>
+
+<td>Science</td>
+
+<td>16</td>
+
+<td><a href="https://www.youtube.com/user/fermilab" rel="nofollow noopener" target="_blank">Fermilab</a></td>
+
+<td>335</td>
+
+<td>511.0K</td>
+
+<td>Fermi National Accelerator Laboratory is the premier particle physics lab in the United States. Founded as the National Accelerator Laboratory in 1967, it was renamed after physicist Enrico Fermi in 1974. Since its inception, Fermilab has been a world leader in particle physics, with discoveries including the bottom quark, top quark and tau neutrino, three of the elementary particles that make up our universe. Fermilab is home to approximately 1,700 scientists, engineers, technicians and support staff, and hosts about 2,500 visiting scientists from around the world. The laboratory is operated by the Fermi Research Alliance for the U.S. Department of Energy.</td></tr><tr>
+
+<td>Science</td>
+
+<td>17</td>
+
+<td><a href="https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g" rel="nofollow noopener" target="_blank">PBS Space Time</a></td>
+
+<td>276</td>
+
+<td>2260.0K</td>
+
+<td>Space Time explores the outer reaches of space, the craziness of astrophysics, the possibilities of sci-fi, and anything else you can think of beyond Planet Earth with our astrophysicist host: Matthew O’Dowd. Episodes released every Wednesday afternoon! Matt O&#8217;Dowd spends his time studying the universe, especially really far-away things like quasars, super-massive black holes, and evolving galaxies. He uses telescopes in space to do it. Matt completed his Ph.D. at NASA&#8217;s Space Telescope Science Institute, followed by work at the University of Melbourne and Columbia University. He&#8217;s now a professor at the City University of New York&#8217;s Lehman College and an Associate at the American Museum of Natural History&#8217;s Hayden Planetarium. Previous host Gabe Perez-Giz is an astrophysicist who studies black hole physics. He received his Ph.D. from Columbia University and also hosted PBS Infinite Series.</td></tr><tr>
+
+<td>Science</td>
+
+<td>18</td>
+
+<td><a href="https://www.youtube.com/user/minutephysics" rel="nofollow noopener" target="_blank">minutephysics</a></td>
+
+<td>255</td>
+
+<td>5280.0K</td>
+
+<td>Simply put: cool physics and other sweet science. &#8220;If you can&#8217;t explain it simply, you don&#8217;t understand it well enough.&#8221; ~Rutherford via Einstein? (wikiquote) Created by Henry Reich</td></tr><tr>
+
+<td>Science</td>
+
+<td>19</td>
+
+<td><a href="https://www.youtube.com/user/DrPhysicsA" rel="nofollow noopener" target="_blank">DrPhysicsA</a></td>
+
+<td>223</td>
+
+<td>284.0K</td>
+
+<td>This YouTube channel contains a series of Physics videos which are intended to give a basic introduction to the subjects covered. They explain the essence of the subject in as simple as way as possible. They assume basic knowledge of algebra and calculus and some general physics. Videos are organised into playlists: A Level Physics Revision GCSE Physics Revision A Level Physics Exam Questions Examples Atomic Physics Electricity &amp; Magnetism Particle Physics Thermodynamics Nuclear Physics Classical Mechanics Special &amp; General Relativity Cosmology Quantum Mechanics Miscellaneous.</td></tr><tr>
+
+<td>Science</td>
+
+<td>20</td>
+
+<td><a href="https://www.youtube.com/channel/UCpMcsdZf2KkAnfmxiq2MfMQ" rel="nofollow noopener" target="_blank">Arvin Ash</a></td>
+
+<td>140</td>
+
+<td>460.0K</td>
+
+<td>Complex Questions &#8211; Explained Simply, in about 10-15 minutes. I like to ask big questions. We use animations, live videos, simple analogies and narration to explain complex subjects in science, technology, consciousness, and other weighty matters. If you want to impress someone with your knowledge, or just have your mind blown once in a while &#8211; check us out.</td></tr><tr>
+
+<td>Science</td>
+
+<td>21</td>
+
+<td><a href="https://www.youtube.com/user/EugeneKhutoryansky" rel="nofollow noopener" target="_blank">Physics Videos by Eugene Khutoryansky</a></td>
+
+<td>112</td>
+
+<td>818.0K</td>
+
+<td>Physics YouTube channel made and run by Eugene Khutoryansky. All my videos are narrated by Kira Vincent. I make all the animations for my videos myself. In many cases, it takes me several months of work to create the animations for a single video, so please be patient. Topics covered include physics, mathematics, and engineering.</td></tr><tr>
+
+<td>Science</td>
+
+<td>22</td>
+
+<td><a href="https://www.youtube.com/channel/UC-RqSPZCo49Mr2NEk32nbaA" rel="nofollow noopener" target="_blank">ScienceToday</a></td>
+
+<td>30</td>
+
+<td>150.0K</td>
+
+<td>Sharing the most fascinating and inspiring science news.</td></tr><tr>
+
+<td>Productivity</td>
+
+<td>23</td>
+
+<td><a href="https://www.youtube.com/channel/UCJtUOos_MwJa_Ewii-R3cJA" rel="nofollow noopener" target="_blank">Leila Gharani</a></td>
+
+<td>301</td>
+
+<td>760.0K</td>
+
+<td>My goal is to help you save time so you can spend it on the activities that matter. I create videos on: &#8211; Microsoft Excel, PowerPoint, VBA, OneNote, and other Office Products &#8211; Google Sheets &#8211; Accounting &amp; Finance I love to learn new tools and techniques and share these with you. I hope to inspire you to experiment and share with others. My background: MA in economics / Economist / Business Consultant / Accounting Systems Expert / Oracle &amp; SAP implementations (for Finance) / Teacher &amp; Microsoft MVP Subscribe if you&#8217;d like to improve your skills.</td></tr><tr>
+
+<td>PM</td>
+
+<td>24</td>
+
+<td><a href="https://www.youtube.com/channel/UCdC8OjKiI1BSOQv-ghPjMUQ" rel="nofollow noopener" target="_blank">Project Online</a></td>
+
+<td>184</td>
+
+<td>4.4K</td>
+
+<td>Microsoft Project</td></tr><tr>
+
+<td>Misc</td>
+
+<td>25</td>
+
+<td><a href="https://www.youtube.com/user/gcflearnfree" rel="nofollow noopener" target="_blank">GCFLearnFree.org</a></td>
+
+<td>1,047</td>
+
+<td>707.0K</td>
+
+<td>For more than a decade, the GCFLearnFree.org program has helped millions around the world learn the essential skills they need to live and work in the 21st century. From Microsoft Office and email to reading, math, and more, GCFLearnFree.org offers tutorials in more than 190 topics, including more than 2,300 lessons as well as videos and interactives, completely free.</td></tr><tr>
+
+<td>Graphics</td>
+
+<td>26</td>
+
+<td><a href="https://www.youtube.com/user/DaViesMediaDesign" rel="nofollow noopener" target="_blank">Davies Media Design</a></td>
+
+<td>335</td>
+
+<td>99.6K</td>
+
+<td>Find GIMP Tutorials &amp; Inkscape Tutorials here, posted every week! Find more GIMP and Inkscape content on my website: https://www.daviesmediadesign.com/ Davies Media Design is one of the top GIMP YouTube channels in the world, specializing in graphic design and photo editing tutorials using the free GIMP software. Plus, we are now creating Inkscape tutorials for graphic designers! Our tutorials are for every skill level, from beginner to expert, and range from creating text effects, to photo manipulation, and to creating your own marketing and promotional materials for your business. With our help, you&#8217;ll be able to do your basic graphic design and photo editing all on your own FOR FREE.</td></tr><tr>
+
+<td>Exam</td>
+
+<td>27</td>
+
+<td><a href="https://www.youtube.com/channel/UCT0s92hGjqLX6p7qY9BBrSA" rel="nofollow noopener" target="_blank">NCERT OFFICIAL</a></td>
+
+<td>9,605</td>
+
+<td>726.0K</td>
+
+<td>National Council of Educational Research and Training (NCERT) introduces e- pathshala, a platform for showcasing and disseminating all digital and digitizable resources for its stakeholders, i.e. students, teachers, teacher educators, researchers, policy planners and parents. It will not only address the challenge of reaching out to diverse clientele groups but also will bridge the digital divide by imparting comparable quality of education.</td></tr><tr>
+
+<td>Exam</td>
+
+<td>28</td>
+
+<td><a href="https://www.youtube.com/user/successcds1" rel="nofollow noopener" target="_blank">SuccessCDs Education</a></td>
+
+<td>1,661</td>
+
+<td>1070.0K</td>
+
+<td>SuccessCDs Education is an online youtube channel focused on providing K-12 education through Videos as per CBSE, ICSE and NCERT syllabi for English, Hindi, Science, Social Science, Sanskrit and other subjects. Also visit our Channel for Entrance Exams in India FAQs &amp; Application Process, GK &amp; Current Affairs, Communication Skills Our website ( https://www.successcds.net ) is one of the leading portal on Entrance Exams and Admissions in India. Follow us on Facebook http://www.facebook.com/SuccessCD</td></tr><tr>
+
+<td>Exam</td>
+
+<td>29</td>
+
+<td><a href="https://www.youtube.com/user/The1751964" rel="nofollow noopener" target="_blank">Impetus Gurukul PHYSICS Vivek Phalke</a></td>
+
+<td>292</td>
+
+<td>119.0K</td>
+
+<td>PHYSICS for Board exams CBSE,ICSE StateBoards ,&#8230;&amp; Competitive exams like IIT, AIIMS, NEET at home. Also useful for KVPY OLYMPIADS NDA/NA&#8230;. You may buy complete video lectures package.For more information call 9826334545.</td></tr><tr>
+
+<td>Exam</td>
+
+<td>30</td>
+
+<td><a href="https://www.youtube.com/channel/UCdS1kL8WbI2RkRpNYL0X-3w" rel="nofollow noopener" target="_blank">NDL India</a></td>
+
+<td>184</td>
+
+<td>12.3K</td>
+
+<td>The National Digital Library of India (NDLIndia) is a National Mission Project commissioned by the Ministry of Human Resources to engage, enable and inspire all learners across the country irrespective of age, demographics and ability. The initiative is an open-source single-window search platform developed by the Indian Institute of Technology, Kharagpur that uses metadata to guide students and customize their search according to their individual needs. It holds a wide variety of lectures/courses/archives in various media forms curated, collated and created with the best institutions in the country. Be it schools, colleges, universities or beyond – across languages and abilities, the National Digital Library of India is a melting pot of knowledge and information sorted by subject, degree of complexity, nature of media and much more.</td></tr><tr>
+
+<td>Engineering</td>
+
+<td>31</td>
+
+<td><a href="https://www.youtube.com/user/stanfordonline" rel="nofollow noopener" target="_blank">stanfordonline</a></td>
+
+<td>1,377</td>
+
+<td>240.0K</td>
+
+<td>Stanford Online is Stanford’s online learning provider, offering learners access to Stanford’s extended education and lifelong learning opportunities. Our robust catalog of credit-bearing, professional, and free and open content provides a variety of ways to expand your learning, advance your career, and enhance your life. Stanford Online is operated and managed by the Stanford Center for Professional Development, a leader in online and extended education.</td></tr><tr>
+
+<td>Engineering</td>
+
+<td>32</td>
+
+<td><a href="https://www.youtube.com/user/stanfordeng" rel="nofollow noopener" target="_blank">Stanford University School of Engineering</a></td>
+
+<td>462</td>
+
+<td>140.0K</td>
+
+<td>The Stanford School of Engineering has been at the forefront of innovation for nearly a century, creating pivotal technologies that have transformed the worlds of information technology, communications, medicine, energy, business and beyond. The faculty, students and alumni of Stanford Engineering have established thousands of companies and laid the technological and business foundations for Silicon Valley. Founded in 1925, the school has a tradition of pursuing multidisciplinary collaboration aimed at solving the most pressing global problems.</td></tr><tr>
+
+<td>Engineering</td>
+
+<td>33</td>
+
+<td><a href="https://www.youtube.com/user/LearnEngineeringTeam" rel="nofollow noopener" target="_blank">Learn Engineering</a></td>
+
+<td>159</td>
+
+<td>4330.0K</td>
+
+<td>This channel was founded by Sabin Mathew, an IIT Delhi post graduate in 2012. At Learn Engineering, we aim to provide quality engineering education. Our videos are designed to clear misconceptions, create a passion for engineering and explain complicated technologies in a simple way.</td></tr></tbody></table></figure>
+
