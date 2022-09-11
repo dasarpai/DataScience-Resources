@@ -2,7 +2,7 @@
 
 
 ## Best Python Resources
----------------------
+
 
 1.  [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 2.  [Python Practice Book — Python Practice Book](https://anandology.com/python-practice-book/index.html)
@@ -30,7 +30,7 @@
 24.  [Learn Python – Python Tutorials – DataFlair](https://data-flair.training/blogs/python-tutorials-home/)
 
 ## Best Numpy Resources
---------------------
+
 
 1.  [arrays – What are the advantages of NumPy over regular Python lists? – Stack Overflow](https://stackoverflow.com/questions/993984/what-are-the-advantages-of-numpy-over-regular-python-lists)
 2.  [python – Why are NumPy arrays so fast? – Stack Overflow](https://stackoverflow.com/questions/8385602/why-are-numpy-arrays-so-fast)
@@ -39,7 +39,7 @@
 5.  [Overview – NumPy v1.16 Manual](https://docs.scipy.org/doc/numpy/)
 
 ## Best Pandas Resources
--------------------------
+
 
 1.  [pandas](http://pandas.pydata.org/)
 2.  [DataFrame – pandas 0.24.2 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html)
@@ -51,7 +51,7 @@
 8.  [Counting and Basic Frequency Plots – Python](https://etav.github.io/python/count_basic_freq_plot.html)
 
 ## Python Visualization Resources
-------------------------------
+
 
 1.  [Seaborn](https://seaborn.pydata.org/api.html)
 2.  [rougier/matplotlib-tutorial: Matplotlib tutorial for beginner](https://github.com/rougier/matplotlib-tutorial)
@@ -60,7 +60,7 @@
 5.  [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
 ## Other Resources
----------------
+
 
 1.  [Contests | Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 2.  [Working With Text Data — scikit-learn 0.20.3 documentation](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#loading-the-20-newsgroups-dataset)
@@ -69,7 +69,7 @@
 5.  [FakeNewsDetection/FakeBuster: Fake News Detection with Machine Learning](https://github.com/FakeNewsDetection/FakeBuster)
 
 ## Websites to learn Python
-------------------------
+
 
 1.  [http://interactivepython.org](http://interactivepython.org/)
 2.  [http://inventwithpython.com](http://inventwithpython.com/)
