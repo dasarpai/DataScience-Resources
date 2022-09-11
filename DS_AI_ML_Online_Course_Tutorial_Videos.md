@@ -1,3 +1,5 @@
+### By Hari Thapliyaal, July 2, 2020
+
 # DS, AI, ML Online Course, Tutorial, Videos
 
 ## Courses

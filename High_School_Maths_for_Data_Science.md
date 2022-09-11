@@ -1,3 +1,7 @@
+### By Hari Thapliyaal, March 3, 2021
+
+# High_School_Maths_for_Data_Science
+
 # [Algebra I](https://www.varsitytutors.com/high_school_math-help/algebra-i)
 
 1.  [How to graph an ordered pair](https://www.varsitytutors.com/high_school_math-help/how-to-graph-an-ordered-pair)

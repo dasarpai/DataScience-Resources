@@ -1,3 +1,7 @@
+### By Hari Thapliyaal Sep 08, 2022
+
+# My Favorite Chrome Extensions
+
 #|Name |Purpose
 --|---|---
 1|Grammerly|Writting Better and Error Free English

@@ -1,3 +1,5 @@
+### By Hari Thapliyaal Sep 11, 2022
+
 # Data Science Cheatsheets
 All these cheat sheets are available to me and kept at <a href="https://drive.google.com/drive/u/1/folders/1dM-Xiz2Iclw0tWT7Uc8GYuWLLJ-e-4YH" target="_blank">this link</a>.
 

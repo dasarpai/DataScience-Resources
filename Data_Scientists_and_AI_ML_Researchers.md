@@ -1,5 +1,6 @@
-Data Scientists and AI, ML Researchers
---------------------------------------
+### By Hari Thapliyaal, July 2, 2020
+
+# Data Scientists and AI, ML Researchers
 
 For the initial list, I have taken content from [github](https://github.com/datasciencescoop/awesome-deep-learning). I have expanded this and will keep updating this in the future. If you know any, please feel free to put the name in the comment box.
 

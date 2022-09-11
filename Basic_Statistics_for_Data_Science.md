@@ -1,3 +1,5 @@
+### By Hari Thapliyaal, July 2, 2020
+
 # Basic Statistics for Data Science
 
 ## Popular Articles on Statistics

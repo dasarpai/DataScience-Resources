@@ -1,3 +1,5 @@
+### By Hari Thapliyaal, April 9, 2021
+
 # Best YouTube Channels to Learn Data Science
 The way we are learning new technologies has hugely changed in the last 5 years. Many educators, researchers, voices for quality education for all have come to create their educational videos and share those with community members, peers, and learners from industries. Many subjects and topics like Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning have gained has huge popularity in the market because they have brought disruption in the existing businesses and knowledge is openly available in the market. If you have time and money, then it makes sense to join some full-time or part-time course from some good university and learn these subjects systematically in depth and detail. But, if time or/and money is the issue, and you know what you want to learn, then there are many YouTube channels. From there you can learn everything you need to become a good ML Engineer, Data Scientist, Data Engineer, DL Engineer, NLP Engineer, etc.
 

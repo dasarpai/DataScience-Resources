@@ -1,3 +1,5 @@
+### By Hari Thapliyaal Sep 08, 2022
+
 # DS, AI, ML, Books Available
 
 All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link given. This link contains excellent presentations (PPT), Handbook, Report, Article – ARTC, Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN.
