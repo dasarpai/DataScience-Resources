@@ -1,5 +1,4 @@
-# datascience
-Data Science Resources
+# Data Science, AI, Machine Learning, Deep Learning, NLP, RL Resources
 
 1. [Reinforcement Learning Repositories.md](https://github.com/dasarpai/DataScience/blob/main/Reinforcement_Learning_Repositories.md)
 1. [My Favorite Chrome Extensions.md](https://github.com/dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md)
