@@ -30,7 +30,7 @@
 
 15. **[Important AI Research Papers](https://github.com//dasarpai/DataScience/blob/main/Important-AI-Research-Papers.md "Important-AI-Research-Papers.md")** : By this time there are thousands, if not millions, papers in AI and related technologies. I found around 50 paper of special interest. You may be interested in reading these.
 
-16. [High School Maths for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/High_School_Maths_for_Data_Science.md "High_School_Maths_for_Data_Science.md")
+16. **[High School Maths for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/High_School_Maths_for_Data_Science.md "High_School_Maths_for_Data_Science.md")** 
 
 17. [Basic Statistics for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/Basic_Statistics_for_Data_Science.md "Basic_Statistics_for_Data_Science.md")
 
@@ -74,7 +74,6 @@
 	35. NLP
 	36. Sanskrit Text
 	37. Website
-
 
 20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md "My_Favorite_Chrome_Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
 
