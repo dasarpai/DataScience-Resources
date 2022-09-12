@@ -37,43 +37,43 @@
 18. [Mathematics_in_Data_Science.md](https://github.com//dasarpai/DataScience/blob/main/Mathematics_in_Data_Science.md "Mathematics_in_Data_Science.md")
 
 19. **[My Daily Tools.md](https://github.com//dasarpai/DataScience/blob/main/My_Daily_Tools.md "My_Daily_Tools.md")** : 200+ Tools for 
-		1. Blogging
-		2. Bookmarking
-		3. Business Development
-		4. Clip Art, Image & Photo Sharing Platforms
-		5. Creative Thinking
-		6. Data in Cloud
-		7. Development
-		8. File Converter
-		9. Free ebook
-		10. General
-		11. Language Chinese
-		12. Language English
-		13. Language Indic
-		14. Learn Drawing
-		15. Mass Mailing
-		16. Misc-Tools
-		17. Notes
-		18. Online Audio
-		19. Online Training
-		20. Research
-		21. Screencapture & Screencasting Tools
-		22. Sharing
-		23. Skill Testing
-		24. Video and Image Creation
-		25. Video Download
-		26. Voice Recording
-		27. Web Scrapping
-		28. Website Content
-		29. NLP
-		30. TTS
-		31. Language Sanskrit
-		32. Design-FE
-		33. Designer UI
-		34. SEO/SEM
-		35. NLP
-		36. Sanskrit Text
-		37. Website
+	1. Blogging
+	2. Bookmarking
+	3. Business Development
+	4. Clip Art, Image & Photo Sharing Platforms
+	5. Creative Thinking
+	6. Data in Cloud
+	7. Development
+	8. File Converter
+	9. Free ebook
+	10. General
+	11. Language Chinese
+	12. Language English
+	13. Language Indic
+	14. Learn Drawing
+	15. Mass Mailing
+	16. Misc-Tools
+	17. Notes
+	18. Online Audio
+	19. Online Training
+	20. Research
+	21. Screencapture & Screencasting Tools
+	22. Sharing
+	23. Skill Testing
+	24. Video and Image Creation
+	25. Video Download
+	26. Voice Recording
+	27. Web Scrapping
+	28. Website Content
+	29. NLP
+	30. TTS
+	31. Language Sanskrit
+	32. Design-FE
+	33. Designer UI
+	34. SEO/SEM
+	35. NLP
+	36. Sanskrit Text
+	37. Website
 
 
 20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md "My_Favorite_Chrome_Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
