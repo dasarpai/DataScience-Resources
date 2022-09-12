@@ -34,4 +34,3 @@
 | 28 | Transliterate South Asian Scripts | Transliterate South Asian Scripts |
 | 29 | Ubersuggest - SEO and Keyword Discovery | Keyword search volume, CPC and insights for all keywords you search. Works with Google, YouTube and Amazon. SEO tool by Neil Patel. |
 | 30 | Web Scraper - GetData.IO | Turn any webpage into an API in 3 click |
-
