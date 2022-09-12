@@ -26,9 +26,9 @@
 
 13. [Reinforcement Learning Repositories.md](https://github.com//dasarpai/DataScience/blob/main/Reinforcement_Learning_Repositories.md "Reinforcement_Learning_Repositories.md")
 
-14. **[Data Science Interview Question Answers](https://github.com//dasarpai/DataScience/blob/main/Data_Science_Interview_Question_Answers.md "Data_Science_Interview_Question_Answers.md)**
+14. **[Data Science Interview Question Answers](https://github.com//dasarpai/DataScience/blob/main/Data_Science_Interview_Question_Answers.md "Data_Science_Interview_Question_Answers.md")**
 
-15. **[Important AI Research Papers](https://github.com//dasarpai/DataScience/blob/main/Important-AI-Research-Papers.md "Important-AI-Research-Papers.md)** : By this time there are thousands, if not millions, papers in AI and related technologies. I found around 50 paper of special interest. You may be interested in reading these.
+15. **[Important AI Research Papers](https://github.com//dasarpai/DataScience/blob/main/Important-AI-Research-Papers.md "Important-AI-Research-Papers.md")** : By this time there are thousands, if not millions, papers in AI and related technologies. I found around 50 paper of special interest. You may be interested in reading these.
 
 16. [High School Maths for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/High_School_Maths_for_Data_Science.md "High_School_Maths_for_Data_Science.md")
 
@@ -79,4 +79,4 @@
 20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md "My_Favorite_Chrome_Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
 
 21. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy_I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
-     This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept from this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
+     This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept in this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
