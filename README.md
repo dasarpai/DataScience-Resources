@@ -31,5 +31,6 @@
 
 1. [My Daily Tools.md](https://github.com//dasarpai/DataScience/blob/main/My_Daily_Tools.md "My_Daily_Tools.md")
 1. [My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md "My_Favorite_Chrome_Extensions.md")
-1. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy_I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub?mode=html)
+1. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy_I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
+	This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept from this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
 
