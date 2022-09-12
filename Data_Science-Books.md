@@ -2,7 +2,9 @@
 
 # DS, AI, ML, Books Available
 
-All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link given. This link contains excellent presentations (PPT), Handbook, Report, Article – ARTC, Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN.
+All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1B-5t63feVAG9UHV47yk98ZVNoMD-ZYt9?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. 560+ pdf files, 400+ books. 
+
+If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type Paper". This repository also has some important AI/ML research paper.
 
     1. 10 Keys to AI Success in 2021-by-DataRobot-PPT.pdf
     2. 10 Useful Way To Visualize Your Data-GUIDE.pdf
@@ -612,6 +614,7 @@ All these books are available in pdf format at <a href="https://drive.google.com
     606. XGBoost Reliable Large-scale Tree Boosting System-PAPER.pdf
 
 # Free Online Books
+
     1. Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
     2. Neural Networks and Deep Learning by Michael Nielsen (Dec 2014)
     3. Deep Learning by Microsoft Research (2013)

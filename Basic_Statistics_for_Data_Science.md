@@ -2,7 +2,7 @@
 
 # Basic Statistics for Data Science
 
-## Popular Articles on Statistics
+## Important Webpages on Statistics
 
 1.  [Statistical Inference – an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/neuroscience/statistical-inference)
 2.  [Welcome – The Data Journalism Handbook](https://datajournalismhandbook.org/1.0/en/index.html)
