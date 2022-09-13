@@ -20,9 +20,9 @@
 
 10. **[Datasets.md](https://github.com//dasarpai/DataScience/blob/main/Datasets.md "Datasets.md")** :  **200+ dataset sources and important dataset** for Classical Machine Learning, Computer Vision, NLP/NLU, Audio Processing, Time Series related projects.
 
-11. **[Deep Learning Tasks and Models.md](https://github.com//dasarpai/DataScience/blob/main/Deep_Learning_Tasks_and_Models.md "Deep_Learning_Tasks_and_Models.md")** : 
+11. **[Deep Learning Tasks and Models.md](https://github.com//dasarpai/DataScience/blob/main/Deep_Learning_Tasks_and_Models.md "Deep_Learning_Tasks_and_Models.md")** : Deep Learning, NLP Tasks related model and datasets.
 
-12. [DS AI ML Online Course Tutorial Videos.md](https://github.com//dasarpai/DataScience/blob/main/DS_AI_ML_Online_Course_Tutorial_Videos.md "DS_AI_ML_Online_Course_Tutorial_Videos.md")
+12. **[DS AI ML Online Course Tutorial Videos.md](https://github.com//dasarpai/DataScience/blob/main/DS_AI_ML_Online_Course_Tutorial_Videos.md "DS_AI_ML_Online_Course_Tutorial_Videos.md")** : Hundreds of courses, tutorial, video lecture series to learn Data Science, AI, ML topics online
 
 13. [Reinforcement Learning Repositories.md](https://github.com//dasarpai/DataScience/blob/main/Reinforcement_Learning_Repositories.md "Reinforcement_Learning_Repositories.md")
 
@@ -32,9 +32,9 @@
 
 16. **[High School Maths for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/High_School_Maths_for_Data_Science.md "High_School_Maths_for_Data_Science.md")** 
 
-17. [Basic Statistics for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/Basic_Statistics_for_Data_Science.md "Basic_Statistics_for_Data_Science.md")
+17. **[Basic Statistics for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/Basic_Statistics_for_Data_Science.md "Basic_Statistics_for_Data_Science.md")** : Important Web-pages and websites to learn statistics.
 
-18. [Mathematics_in_Data_Science.md](https://github.com//dasarpai/DataScience/blob/main/Mathematics_in_Data_Science.md "Mathematics_in_Data_Science.md")
+18. **[Mathematics_in_Data_Science.md](https://github.com//dasarpai/DataScience/blob/main/Mathematics_in_Data_Science.md "Mathematics_in_Data_Science.md")** : 
 
 19. **[My Daily Tools.md](https://github.com//dasarpai/DataScience/blob/main/My_Daily_Tools.md "My_Daily_Tools.md")** : 200+ Tools for 
 	* Blogging
@@ -79,3 +79,4 @@
 
 21. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy_I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
      This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept in this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
+
