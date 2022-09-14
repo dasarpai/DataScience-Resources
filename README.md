@@ -1,7 +1,3 @@
-<body>
-	<script src="https://gist.github.com/dasarpai/6dea9df613fc708b258dbca6446759bb.js"></script>
-</body> 
-
 # Data Science, AI, Machine Learning, Deep Learning, NLP, RL Resources
 
 1. **[ML Frameworks Libraries Tools.md](https://github.com//dasarpai/DataScience/blob/main/ML_Frameworks_Libraries_Tools.md "ML_Frameworks_Libraries_Tools.md")** : A list of 600 data science libaries (mostly python), frameworks, IDE, cloud, AutoML, MLOPs, CI/CD, NLP, Deep Learning, Timeseries, GAN, Package Management, Transformers, GNN.
