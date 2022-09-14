@@ -1,4 +1,6 @@
-<script src="https://gist.github.com/dasarpai/6dea9df613fc708b258dbca6446759bb.js"></script>
+<body>
+	<script src="https://gist.github.com/dasarpai/6dea9df613fc708b258dbca6446759bb.js"></script>
+</body> 
 
 # Data Science, AI, Machine Learning, Deep Learning, NLP, RL Resources
 
