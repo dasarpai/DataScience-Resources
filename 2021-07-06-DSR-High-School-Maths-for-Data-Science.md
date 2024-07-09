@@ -1,9 +1,29 @@
-### By Hari Thapliyaal, March 3, 2021
+---
+id: 106    
+title: "High School Maths for Data Science"
+permalink: /dsblog/high-school-maths-for-ds
+date: 2021-07-06
+categories:
+tags: [DS Resources, Mathematics for Data Scientist]
 
-# High_School_Maths_for_Data_Science
+header:
+  teaser: /assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg
+last_modified_at: 2021-08-28T15:46:43-04:00
+author: Hari Thapliyaal   
+mathjax: "true"
+share: true
+excerpt:   
+layout: dspost-layout   
+author_profile: true   
+toc: true   
+toc_sticky: true
+---
 
-# [Algebra I](https://www.varsitytutors.com/high_school_math-help/algebra-i)
-
+![High School Maths for Data Science](/assets/images/dspost/dsr106-High-School-Maths-for-Data-Science.jpg)   
+    
+# High School Maths for Data Science   
+   
+## [Algebra I](https://www.varsitytutors.com/high_school_math-help/algebra-i)   
 1. [How to graph an ordered pair](https://www.varsitytutors.com/high_school_math-help/how-to-graph-an-ordered-pair)
 2. [How to find the equation of a circle](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-equation-of-a-circle)
 3. [How to find the equation of a curve](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-equation-of-a-curve)
@@ -18,8 +38,7 @@
 12. [How to find the equation of a perpendicular line](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-equation-of-a-perpendicular-line)
 13. [How to find the slope of a perpendicular line](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-slope-of-a-perpendicular-line)
 
-# [Algebra II](https://www.varsitytutors.com/high_school_math-help/algebra-ii)
-
+## [Algebra II](https://www.varsitytutors.com/high_school_math-help/algebra-ii)   
 1. [Setting up Equations](https://www.varsitytutors.com/high_school_math-help/setting-up-equations)
 2. [Simplifying Equations](https://www.varsitytutors.com/high_school_math-help/simplifying-equations)
 3. [Solving Equations](https://www.varsitytutors.com/high_school_math-help/simplifying-equations)
@@ -98,8 +117,7 @@
 76. [Understanding Number Sets](https://www.varsitytutors.com/high_school_math-help/simplifying-equations)
 77. [Understanding Real Numbers](https://www.varsitytutors.com/high_school_math-help/simplifying-equations)
 
-# [Calculus I — Derivatives](https://www.varsitytutors.com/high_school_math-help/calculus-i-derivatives)
-
+## [Calculus I — Derivatives](https://www.varsitytutors.com/high_school_math-help/calculus-i-derivatives)   
 1. [Finding Regions of Concavity and Convexity](https://www.varsitytutors.com/high_school_math-help/finding-regions-of-concavity-and-convexity)
 2. [Finding Regions of Increasing and Decreasing Value](https://www.varsitytutors.com/high_school_math-help/finding-regions-of-increasing-and-decreasing-value)
 3. [Finding Derivative at a Point](https://www.varsitytutors.com/high_school_math-help/finding-regions-of-increasing-and-decreasing-value)
@@ -116,8 +134,7 @@
 14. [Identifying Absolute and Local Extrema](https://www.varsitytutors.com/high_school_math-help/finding-regions-of-increasing-and-decreasing-value)
 15. [Identifying Slope at a Point](https://www.varsitytutors.com/high_school_math-help/finding-regions-of-increasing-and-decreasing-value)
 
-# [Calculus II — Integrals](https://www.varsitytutors.com/high_school_math-help/calculus-ii-integrals)
-
+## [Calculus II — Integrals](https://www.varsitytutors.com/high_school_math-help/calculus-ii-integrals)   
 1. [Finding First and Second Derivatives](https://www.varsitytutors.com/high_school_math-help/finding-first-and-second-derivatives)
 2. [Understanding L’Hospital’s Rule](https://www.varsitytutors.com/high_school_math-help/understanding-l-hospital-s-rule)
 3. [Finding Definite Integrals](https://www.varsitytutors.com/high_school_math-help/understanding-l-hospital-s-rule)
@@ -131,8 +148,7 @@
 11. [Understanding Maclaurin Series](https://www.varsitytutors.com/high_school_math-help/understanding-l-hospital-s-rule)
 12. [Understanding Taylor Series](https://www.varsitytutors.com/high_school_math-help/understanding-l-hospital-s-rule)
 
-#[Geometry](https://www.varsitytutors.com/high_school_math-help/geometry)
-
+## [Geometry](https://www.varsitytutors.com/high_school_math-help/geometry)   
 1. [How to find the angle of clock hands](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-angle-of-clock-hands)
 2. [How to find the length of the diameter](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-length-of-the-diameter)
 3. [How to find the ratio of diameter and circumference](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-length-of-the-diameter)
@@ -206,8 +222,7 @@
 71. [How to find the length of the side of a right triangle](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-length-of-the-diameter)
 72. [How to find the perimeter of a right triangle](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-length-of-the-diameter)
 
-# [Solid Geometry](https://www.varsitytutors.com/high_school_math-help/geometry/solid-geometry)
-
+## [Solid Geometry](https://www.varsitytutors.com/high_school_math-help/geometry/solid-geometry)   
 1. [How to find the surface area of a cone](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-surface-area-of-a-cone)
 2. [How to find the volume of a cone](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-volume-of-a-cone)
 3. [How to find the diagonal of a cube](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-volume-of-a-cone)
@@ -228,8 +243,7 @@
 18. [How to find the surface area of a sphere](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-volume-of-a-cone)
 19. [How to find the volume of a sphere](https://www.varsitytutors.com/high_school_math-help/how-to-find-the-volume-of-a-cone)
 
-# [Pre-Algebra](https://www.varsitytutors.com/high_school_math-help/pre-algebra)
-
+## [Pre-Algebra](https://www.varsitytutors.com/high_school_math-help/pre-algebra)   
 1. [How to solve one-step equations with decimals in pre-algebra](https://www.varsitytutors.com/high_school_math-help/how-to-solve-one-step-equations-with-decimals-in-pre-algebra)
 2. [How to solve one-step equations with fractions in pre-algebra](https://www.varsitytutors.com/high_school_math-help/how-to-solve-one-step-equations-with-fractions-in-pre-algebra)
 3. [How to solve one-step equations with integers in pre-algebra](https://www.varsitytutors.com/high_school_math-help/how-to-solve-one-step-equations-with-fractions-in-pre-algebra)
@@ -273,8 +287,7 @@
 41. [How to use the distributive property in pre-algebra](https://www.varsitytutors.com/high_school_math-help/how-to-solve-one-step-equations-with-fractions-in-pre-algebra)
 42. [How to use the order of operations in pre-algebra](https://www.varsitytutors.com/high_school_math-help/how-to-solve-one-step-equations-with-fractions-in-pre-algebra)
 
-# [Pre-Calculus](https://www.varsitytutors.com/high_school_math-help/pre-calculus)
-
+## [Pre-Calculus](https://www.varsitytutors.com/high_school_math-help/pre-calculus)   
 1. [Solving Circle Functions](https://www.varsitytutors.com/high_school_math-help/solving-circle-functions)
 2. [Graphing Ellipses](https://www.varsitytutors.com/high_school_math-help/graphing-ellipses)
 3. [Graphing Hyperbolas](https://www.varsitytutors.com/high_school_math-help/graphing-ellipses)
@@ -301,8 +314,7 @@
 24. [Understanding Arithmetic and Geometric Series](https://www.varsitytutors.com/high_school_math-help/graphing-ellipses)
 25. [Using Sigma Notation](https://www.varsitytutors.com/high_school_math-help/graphing-ellipses)
 
-# [Trigonometry](https://www.varsitytutors.com/high_school_math-help/trigonometry)
-
+## [Trigonometry](https://www.varsitytutors.com/high_school_math-help/trigonometry)   
 1. [Understanding Angles](https://www.varsitytutors.com/high_school_math-help/understanding-angles)
 2. [Understanding Angles in Different Quadrants](https://www.varsitytutors.com/high_school_math-help/understanding-angles-in-different-quadrants)
 3. [Understanding Complementary and Suplmentary Angles](https://www.varsitytutors.com/high_school_math-help/understanding-angles-in-different-quadrants)
