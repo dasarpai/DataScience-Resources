@@ -1,42 +1,42 @@
 # Data Science, AI, Machine Learning, Deep Learning, NLP, RL Resources
 
-1. **[ML Frameworks Libraries Tools.md](https://github.com//dasarpai/DataScience/blob/main/ML_Frameworks_Libraries_Tools.md "ML_Frameworks_Libraries_Tools.md")** : A list of 600 data science libaries (mostly python), frameworks, IDE, cloud, AutoML, MLOPs, CI/CD, NLP, Deep Learning, Timeseries, GAN, Package Management, Transformers, GNN.
+1. **[ML Frameworks Libraries Tools.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-ML-Frameworks-Libraries-Tools.md "ML-Frameworks-Libraries-Tools.md")** : A list of 600 data science libaries (mostly python), frameworks, IDE, cloud, AutoML, MLOPs, CI/CD, NLP, Deep Learning, Timeseries, GAN, Package Management, Transformers, GNN.
 
-2. **[Best-Youtube-Channels-to-Learn-Data Science.md](https://github.com//dasarpai/DataScience/blob/main/Best-Youtube-Channels-to-Learn-Data_Science.md "Best-Youtube-Channels-to-Learn-Data_Science.md")** : **90+ YouTube channels** to learn Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, Data Analysis, Bigdata, Programming, Statistics, Mathematics. These channels are run, managed, owned by universities or individuals,  who industry stalwarts in the respective field.
+2. **[Best-Youtube-Channels-to-Learn-Data Science.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Best-Youtube-Channels-to-Learn-Data-Science.md "Best-Youtube-Channels-to-Learn-Data-Science.md")** : **90+ YouTube channels** to learn Data Science, Machine Learning, Deep Learning, NLP, Data Engineering, Data Analysis, Bigdata, Programming, Statistics, Mathematics. These channels are run, managed, owned by universities or individuals,  who industry stalwarts in the respective field.
 
-3. **[Data Science-Books.md](https://github.com//dasarpai/DataScience/blob/main/Data_Science-Books.md "Data_Science-Books.md")** : This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. **550+ pdf files, 400+ books**.
+3. **[Data Science-Books.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Data-Science-Books.md "Data-Science-Books.md")** : This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. **550+ pdf files, 400+ books**.
 
-4. **[Data Science Cheatsheets.md](https://github.com//dasarpai/DataScience/blob/main/Data_Science_Cheatsheets.md "Data_Science_Cheatsheets.md")** : **140+ cheatsheets** on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
+4. **[Data Science Cheatsheets.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Data-Science-Cheatsheets.md "Data-Science-Cheatsheets.md")** : **140+ cheatsheets** on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 
-5. **[AI ML Blogs.md](https://github.com//dasarpai/DataScience/blob/main/AI_ML_Blogs.md "AI_ML_Blogs.md")** : **370+ blogs/website**, who publishes articles, research, opinions, observations related to AI, ML, DL, Signal Processing, Computer Vision, Text Processing, Audio Processing, Image/video/Audio/Text Generation on regular basis.
+5. **[AI ML Blogs.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-AI-ML-Blogs.md "AI-ML-Blogs.md")** : **370+ blogs/website**, who publishes articles, research, opinions, observations related to AI, ML, DL, Signal Processing, Computer Vision, Text Processing, Audio Processing, Image/video/Audio/Text Generation on regular basis.
 
-6. **[AI ML Conferences and Journals.md](https://github.com//dasarpai/DataScience/blob/main/AI_ML_Conferences_and_Journals.md "AI_ML_Conferences_and_Journals.md")** : A list of **30+ AI conferences and journals** related to AI, NLP, Deep Learning. Almost all major happening in the world of AI/ML is presented in these conferences and published in these magazines.
+6. **[AI ML Conferences and Journals.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-AI-ML-Conferences-and-Journals.md "AI-ML-Conferences-and-Journals.md")** : A list of **30+ AI conferences and journals** related to AI, NLP, Deep Learning. Almost all major happening in the world of AI/ML is presented in these conferences and published in these magazines.
 
-7. **[Best Resources to Learn Python.md](https://github.com//dasarpai/DataScience/blob/main/Best_Resources_to_Learn_Python.md "Best_Resources_to_Learn_Python.md")** : 60+ github repository to learn Reinforcement learning.
+7. **[Best Resources to Learn Python.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Best-Resources-to-Learn-Python.md "Best-Resources-to-Learn-Python.md")** : 60+ github repository to learn Reinforcement learning.
 
-8. **[Data Scientists and AI ML Researchers.md](https://github.com//dasarpai/DataScience/blob/main/Data_Scientists_and_AI_ML_Researchers.md "Data_Scientists_and_AI_ML_Researchers.md")** : 100+ world class researchers in AI/ML, they are working with different Universities and Corporations.
+8. **[Data Scientists and AI ML Researchers.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Data-Scientists-and-AI-ML-Researchers.md "Data-Scientists-and-AI-ML-Researchers.md")** : 100+ world class researchers in AI/ML, they are working with different Universities and Corporations.
 
-9. **[Data Sources.md](https://github.com//dasarpai/DataScience/blob/main/Data_Sources.md "Data_Sources.md")** : **200+ Data Sources, Databases, and ETL Tool**s. Data generated by different systems can be structured or unstructured. It can be OLTP, OLAP, Audio, Video, Images, Key-Value pair, text books/articles, graph, map etc. There are different databases to store different kind of data. These databases has different features to handle different scale of data, take care of security, performance and ETL tasks.
+9. **[Data Sources.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Data-Sources.md "Data-Sources.md")** : **200+ Data Sources, Databases, and ETL Tool**s. Data generated by different systems can be structured or unstructured. It can be OLTP, OLAP, Audio, Video, Images, Key-Value pair, text books/articles, graph, map etc. There are different databases to store different kind of data. These databases has different features to handle different scale of data, take care of security, performance and ETL tasks.
 
-10. **[Datasets.md](https://github.com//dasarpai/DataScience/blob/main/Datasets.md "Datasets.md")** :  **200+ dataset sources and important dataset** for Classical Machine Learning, Computer Vision, NLP/NLU, Audio Processing, Time Series related projects.
+10. **[Datasets.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Datasets.md "Datasets.md")** :  **200+ dataset sources and important dataset** for Classical Machine Learning, Computer Vision, NLP/NLU, Audio Processing, Time Series related projects.
 
-11. **[Deep Learning Tasks and Models.md](https://github.com//dasarpai/DataScience/blob/main/Deep_Learning_Tasks_and_Models.md "Deep_Learning_Tasks_and_Models.md")** : Deep Learning, NLP Tasks related model and datasets.
+11. **[Deep Learning Tasks and Models.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Deep-Learning-Tasks-and-Models.md "Deep-Learning-Tasks-and-Models.md")** : Deep Learning, NLP Tasks related model and datasets.
 
-12. **[DS AI ML Online Course Tutorial Videos.md](https://github.com//dasarpai/DataScience/blob/main/DS_AI_ML_Online_Course_Tutorial_Videos.md "DS_AI_ML_Online_Course_Tutorial_Videos.md")** : Hundreds of courses, tutorial, video lecture series to learn Data Science, AI, ML topics online
+12. **[DS AI ML Online Course Tutorial Videos.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-DS-AI-ML-Online-Course-Tutorial-Videos.md "DS-AI-ML-Online-Course-Tutorial-Videos.md")** : Hundreds of courses, tutorial, video lecture series to learn Data Science, AI, ML topics online
 
-13. [Reinforcement Learning Repositories.md](https://github.com//dasarpai/DataScience/blob/main/Reinforcement_Learning_Repositories.md "Reinforcement_Learning_Repositories.md")
+13. [Reinforcement Learning Repositories.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Reinforcement-Learning-Repositories.md "Reinforcement-Learning-Repositories.md")
 
-14. **[Data Science Interview Question Answers](https://github.com//dasarpai/DataScience/blob/main/Data_Science_Interview_Question_Answers.md "Data_Science_Interview_Question_Answers.md")**
+14. **[Data Science Interview Question Answers](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Data-Science-Interview-Question-Answers.md "Data-Science-Interview-Question-Answers.md")**
 
-15. **[Important AI Research Papers](https://github.com//dasarpai/DataScience/blob/main/Important-AI-Research-Papers.md "Important-AI-Research-Papers.md")** : By this time there are thousands, if not millions, papers in AI and related technologies. I found around 50 paper of special interest. You may be interested in reading these.
+15. **[Important AI Research Papers](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Important-AI-Research-Papers.md "Important-AI-Research-Papers.md")** : By this time there are thousands, if not millions, papers in AI and related technologies. I found around 50 paper of special interest. You may be interested in reading these.
 
-16. **[High School Maths for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/High_School_Maths_for_Data_Science.md "High_School_Maths_for_Data_Science.md")** 
+16. **[High School Maths for Data Science.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-High-School-Maths-for-Data-Science.md "High-School-Maths-for-Data-Science.md")** 
 
-17. **[Basic Statistics for Data Science.md](https://github.com//dasarpai/DataScience/blob/main/Basic_Statistics_for_Data_Science.md "Basic_Statistics_for_Data_Science.md")** : Important Web-pages and websites to learn statistics.
+17. **[Basic Statistics for Data Science.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Basic-Statistics-for-Data-Science.md "Basic-Statistics-for-Data-Science.md")** : Important Web-pages and websites to learn statistics.
 
-18. **[Mathematics_in_Data_Science.md](https://github.com//dasarpai/DataScience/blob/main/Mathematics_in_Data_Science.md "Mathematics_in_Data_Science.md")** : 
+18. **[Mathematics-in-Data-Science.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-Mathematics-in-Data-Science.md "Mathematics-in-Data-Science.md")** : 
 
-19. **[My Daily Tools.md](https://github.com//dasarpai/DataScience/blob/main/My_Daily_Tools.md "My_Daily_Tools.md")** : 200+ Tools for 
+19. **[My Daily Tools.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-My-Daily-Tools.md "My-Daily-Tools.md")** : 200+ Tools for 
 	* Blogging
 	* Bookmarking
 	* Business Development
@@ -75,8 +75,8 @@
 	* Sanskrit Text
 	* Website
 
-20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience/blob/main/My_Favorite_Chrome_Extensions.md "My_Favorite_Chrome_Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
+20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-My-Favorite-Chrome-Extensions.md "My-Favorite-Chrome-Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
 
-21. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy_I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
+21. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy-I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
      This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept in this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
 
