@@ -4,20 +4,22 @@ title: "Data Science, AI, ML, eBooks, PDF Books"
 permalink: /dsblog/ds-ai-ml-books
 date: 2022-07-20
 categories:
+  - dsblog
 tags: [DS Resources, AI, Data Science, Machine Learning, eBook, Data Science Books]
 
 header:
   teaser: /assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg
 
 last_modified_at: 2021-07-02T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![DS, AI, ML, Books Available](/assets/images/dspost/dsr120-Data-Science-AI-ML-eBooks-PDF-Books.jpg)     
@@ -26,7 +28,7 @@ toc_sticky: true
 
 Data Science, AI, Machine Learning, Books/ Guide/ Reports/ Presentations / Jupyter Notebook Available.
    
-All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1UlzxVnrpeu8Qhe1FFPB0XAM6tBEAE14F?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
+All these books are available in pdf format at <a href="https://drive.google.com/drive/folders/1BB1xnuZ3KT87FAZlne1E3SGs5arH9Otp?usp=sharing" target="_blank"> this link</a>. I update this page less frequently but keep adding books in the repo. The list below may not contain the name you are looking for. Therefore, it is suggested to visit the link mentioned earlier. This link contains excellent presentations Book, (PPT), Handbook, Report, Articles (ARTC), Book, Booklet, eBook, Notebook, Notes, PAPER, GUIDE, TOC, Syllabus, LINKS, Handbook, Chapter, Tool, BROC – Broacher on Machine Learning, Deep Learning, NLP, Statistics, Reinforcement Learning, GAN. Approx 800 pdf files which inclues 350+ books. 
 
 If you want to search all the books on above link then in the search box at above link you can enter "Book". Similarly if you looking for research paper you can type "Paper". You can use following tags to search in the search box. 
  

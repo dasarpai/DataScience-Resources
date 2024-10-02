@@ -4,17 +4,19 @@ title: "Reinforcement Learning Git Repositories"
 permalink: /dsblog/rl-git-repo
 date: 2020-07-01
 tags: [DS Resources, Reinforcment Learning, RL Git Repositories] 
-categories: 
+categories:
+  - dsblog 
 header:
     teaser:  /assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 ![Reinforcement Learning Git Repositories](/assets/images/dspost/dsr101-Reinforcement-Learning-Git-Repositories.jpg)    
    

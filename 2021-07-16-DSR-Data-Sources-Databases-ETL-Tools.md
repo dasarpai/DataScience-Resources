@@ -4,18 +4,20 @@ title: "Navigating the Data Landscape: Exploring Data Sources, Databases, and ET
 permalink: /dsblog/navigating-the-data=landscape
 date: 2021-07-16
 tags: [DS Resources, Data Sources, Databases, ETL Tools] 
-categories: 
+categories:
+  - dsblog
 
 header:
    teaser: /assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
 toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Data Sources, Databases, ETL Tools](/assets/images/dspost/dsr116-Data-Sources-Databases-ETL-Tools.jpg)      

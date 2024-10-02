@@ -4,18 +4,20 @@ title: "My Favorite Chrome Extensions"
 permalink: /dsblog/myfab-chrome-extensions
 date: 2021-07-11
 categories:
+  - dsblog
 tags: [DS Resources, Chrome Tools, Chrome Extensions]
 header:
   teaser:  /assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg
 last_modified_at: 2022-09-08T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![My Favorite Chrome Extensions](/assets/images/dspost/dsr111-My-Favorite-Chrome-Extensions.jpg)   

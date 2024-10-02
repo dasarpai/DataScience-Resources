@@ -4,19 +4,21 @@ title: "Mathematics for Data Scientist"
 permalink: /dsblog/maths-for-ds
 date: 2021-07-04
 categories:
+  - dsblog
 tags: [DS Resources, Mathematics for Data Scientist]
 
 header:
   teaser: /assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg
 last_modified_at: 2021-09-28T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Mathematics for Data Scientist](/assets/images/dspost/dsr104-Mathematics-for-Data-Scientist.jpg)   

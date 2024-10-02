@@ -4,17 +4,19 @@ title: "Datasets"
 permalink: /dsblog/datasets
 date: 2021-07-15
 tags: [DS Resources, Data Science Datasets] 
-categories: 
+categories:
+  - dsblog
 header:
     teaser:  /assets/images/dspost/dsr115-Datasets.jpg  
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 ![Datasets](/assets/images/dspost/dsr115-Datasets.jpg)    
    

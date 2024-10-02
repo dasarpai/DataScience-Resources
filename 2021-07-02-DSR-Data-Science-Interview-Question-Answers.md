@@ -4,26 +4,28 @@ title: "Data Science Interview Question Answers"
 permalink: /dsblog/ds-ai-ml-interview-resources
 date: 2020-07-02
 categories:
+  - dsblog
 tags: [DS Resources, AI Interview Questions, Data Science Interview Questions, Machine Learning Interview Questions, Interview Questions]
 
 header:
   teaser: /assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg
 last_modified_at: 2022-09-09T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Data Science Interview Question Answers](/assets/images/dspost/dsr102-Data-Science-Interview-Question-Answers.jpg)     
    
 # Data Science Interview Question Answers   
     
-Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1UR041sOfesIEjQUoveDzXTypfHThtH5J?usp=sharing) has 51 pdf files which contains the questions and answers.
+Thousands of interview questions on various topic related to Machine Learning, Deep Learning, Computer Vision, NLP, AWS, GCP, MLOPS, Data Analytics, SQL, Python & Statistics. These questions are related to technology, architectures and solving business problem. [This gdrive link](https://drive.google.com/drive/folders/1LG5ZaDAyN-hU3eacWOY97CHHGDT1hKBD?usp=sharing) has 51 pdf files which contains the questions and answers.
 
 ## Interview Question Answers
 Sno | Book | Pages | Size(MB)

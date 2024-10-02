@@ -4,19 +4,21 @@ title: "Data Scientists and AI, ML Researchers"
 permalink: /dsblog/ds-ai-ml-researchers
 date: 2021-07-17
 categories:
+  - dsblog
 tags: [DS Resources, AI Researchers, ML Researchers, NLP Researchers]
 
 header:
   teaser: /assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Data Scientists and AI, ML Researchers](/assets/images/dspost/dsr117-Data-Scientists-and-AI-ML-Researchers.jpg)   

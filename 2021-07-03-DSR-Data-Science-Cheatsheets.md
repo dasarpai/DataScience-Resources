@@ -5,19 +5,20 @@ permalink: /dsblog/data-science-cheatsheets
 date: "2022-07-03T08:33:00+05:30"
 last_modified_at: 2022-09-11T15:46:43-04:00
 categories:
+  - dsblog
 tags: [DS Resources, DS Cheatsheet]
 
 header:
   teaser: /assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg
-
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
+layout: dspost-layout   
 excerpt:   
-layout: single   
 author_profile: true   
-toc: false   
-toc_sticky: true
+share: true   
+toc: true   
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![Data Science Cheatsheets](/assets/images/dspost/dsr103-Data-Science-Cheatsheets.jpg)   
@@ -26,7 +27,7 @@ toc_sticky: true
 
 ## Introduction
    
-All these cheat sheets are kept at [my google drive link](https://drive.google.com/drive/folders/1fy5eofa6IQXgK0uAo_dI7i_QeK8tNHcE?usp=sharing). 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
+All these cheat sheets are kept at [my google drive link](https://drive.google.com/drive/folders/1LGcKiD_Ntms27-xZvaJrIMBRZdiZgFOc?usp=sharing). 180+ cheatsheet on ML, DL, DE, DA, NLP, Algorithms, Pandas, Numpy, Dask, Bigdata, Statistics, Python, SQL, Docker, sklearn, git, GNN etc.
 
 ## List of Cheatsheets
 1. 21 Types of SQL joins-CHEATSHEET.pdf

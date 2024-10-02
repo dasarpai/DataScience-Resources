@@ -4,19 +4,21 @@ title: "My Daily Tools"
 permalink: /dsblog/my-daily-tools
 date: 2021-07-12
 categories:
+  - dsblog
 tags: [DS Resources, Daily Tools, Soft Tools, PM Tools, Design Tools, SEO Tools, AI Tools]
 
 header:
   teaser:  /assets/images/dspost/dsr112-My-Daily-Tools.jpg
 last_modified_at: 2021-06-15T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 
 ![My Daily Tools](/assets/images/dspost/dsr112-My-Daily-Tools.jpg)

@@ -4,19 +4,21 @@ title: "Basic Statistics for Data Science"
 permalink: /dsblog/basic-statistics-for-data-science
 date: 2021-07-18
 categories:
+  - dsblog
 tags: [DS Resources, Basic Statistics, Statistics for Data Science]
 
 header:
   teaser: /assets/images/dspost/dsr118-Basic-Statistics-for-Data-Science.jpg
 last_modified_at: 2021-06-02T15:46:43-04:00
+excerpt_separator: "<!--more-->"   
 author: Hari Thapliyaal   
-mathjax: "true"
-share: true
-excerpt:   
 layout: dspost-layout   
+excerpt:   
 author_profile: true   
+share: true   
 toc: true   
-toc_sticky: true
+toc_sticky: true 
+mathjax: "true"
 ---
 ![Basic Statistics for Data Science](/assets/images/dspost/dsr118-Basic-Statistics-for-Data-Science.jpg)   
    
