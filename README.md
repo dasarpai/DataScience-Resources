@@ -77,6 +77,6 @@
 
 20. **[My Favorite Chrome Extensions.md](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-My-Favorite-Chrome-Extensions.md "My-Favorite-Chrome-Extensions.md")** : **32 Highly Valuable Chrome Extension**, which I use regularly for my research and regular work.
 
-21. [My AI Learning Diary](https://docs.google.com/document/d/e/2PACX-1vRlUTy-I-D8KB9wjeszTmI9vKA2RXmPpRooPYmOoOpaeSgjqzLFxhucXXPyeF9PY2y3woIxioEtk2b5/pub) : 
+21. [My AI Learning Diary](https://github.com//dasarpai/DataScience-Resources/blob/main/DSR-AI-ML-Resources-from-My-Diary.md) : 
      This is my personal diary which contains resources, which I know, learned or people have told me to experiment with. I started writing this diary in Mar’ 2019. This diary is related to my work/learning in data science, AI, ML, NLP, DL, GNN etc. Some links related to Project Management are also kept in this diary. The resources here are python library link, blog articles, youtube article, AI products, architecture, images etc. As of 12-Sep-22, the size of this diary is around 425 page.
 
